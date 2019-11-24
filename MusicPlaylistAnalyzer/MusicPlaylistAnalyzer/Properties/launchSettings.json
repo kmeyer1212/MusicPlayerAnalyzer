@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MusicPlaylistAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": "SampleMusicPlaylist.txt MusicReport.txt"
+    }
+  }
+}

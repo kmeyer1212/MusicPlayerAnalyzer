@@ -1,0 +1,978 @@
+Name	Artist	Album	Genre	Size	Time	Year	Plays
+Losing Touch	The Killers	Day & Age (Deluxe Version)	Alternative	9539055	253	2008	478
+Tranquilize (Feat. Lou Reed)	The Killers	Sawdust	Alternative	8405381	225	2007	433
+"Ruby, Don't Take Your Love to Town"	The Killers	Sawdust	Alternative	6571031	185	2007	256
+Teardrops On My Guitar (Radio Single Remix)	Taylor Swift	Taylor Swift (Bonus Track Version)	Country	7452353	203	2006	168
+Sam's Town	The Killers	Sam's Town	Pop	9481724	246	2006	166
+Sweet Talk	The Killers	Sawdust	Alternative	9086236	258	2007	143
+Mexico	Incubus	Morning View	Alternative	9110894	258	2001	120
+Burnin' It Down	Jason Aldean	"Old Boots, New Dirt"	Country	7411146	222	2014	103
+Closer	Kings of Leon	Only By the Night (Deluxe Version)	Alternative	8426944	237	2008	90
+Sing	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	9524617	235	2014	84
+Don't	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	8903087	219	2014	81
+I'm a Mess	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	9892433	244	2014	75
+A Man Who Was Gonna Die Young	Eric Church	The Outsiders	Country	7886240	193	2014	73
+Be Somebody	Kings of Leon	Only By the Night (Deluxe Version)	Alternative	8253544	227	2008	66
+The Ballad of Michael Valentine	The Killers	Sawdust	Alternative	8518126	230	2007	65
+Nina	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	9130690	225	2014	61
+Talladega	Eric Church	The Outsiders	Country	10631799	262	2014	61
+Cold One	Eric Church	The Outsiders	Country	8349899	205	2014	58
+Echo	Incubus	Morning View	Alternative	7868113	214	2001	57
+Shape of You	Ed Sheeran	÷ (Deluxe)	Pop	8181583	233	2017	55
+Neon Light	Blake Shelton	BRINGING BACK THE SUNSHINE	Country	9034964	221	2014	54
+Bravado	Lorde	Pure Heroine (Extended)	Pop	8919282	221	2013	54
+Sweet Little Somethin'	Jason Aldean	"Old Boots, New Dirt"	Country	6827689	204	2014	53
+Shake It Off	Taylor Swift	1989 (Deluxe)	Pop	8897013	219	2014	52
+Move Away	The Killers	Sawdust	Alternative	8114325	229	2007	51
+Runnin' Outta Moonlight	Randy Houser	How Country Feels	Country	7817598	193	2013	51
+Keep On	Eric Church	Chief	Country	5303743	158	2011	49
+The Outsiders	Eric Church	The Outsiders	Country	10233424	252	2014	49
+Like a Wrecking Ball	Eric Church	The Outsiders	Country	8093591	198	2014	49
+Sun Daze	Florida Georgia Line	Anything Goes	Country	7783711	185	2014	49
+Cold Desert	Kings of Leon	Only By the Night (Deluxe Version)	Alternative	11595161	334	2008	49
+Blank Space	Taylor Swift	1989 (Deluxe)	Pop	9402771	231	2014	48
+Drink In My Hand	Eric Church	Chief	Country	6521510	191	2011	47
+Laid Back	Jason Aldean	"Old Boots, New Dirt"	Country	3359175	184	2014	47
+Til It's Gone	Kenny Chesney	The Big Revival	Country	10591545	250	2014	47
+Mean	Taylor Swift	Speak Now (Deluxe Version)	Country	9997364	237	2010	47
+Roller Coaster Ride	Eric Church	The Outsiders	Country	11193430	276	2014	46
+Tryin' To Love Me	Jason Aldean	"Old Boots, New Dirt"	Country	4053896	225	2014	46
+One	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	10219614	252	2014	45
+No Better	Lorde	Pure Heroine (Extended)	Pop	6896363	170	2013	45
+Just Gettin' Started	Jason Aldean	"Old Boots, New Dirt"	Country	3531871	195	2014	43
+Million Dollar Bills	Lorde	Pure Heroine (Extended)	Pop	5591308	138	2013	43
+The Love Club	Lorde	Pure Heroine (Extended)	Pop	8120992	201	2013	43
+Red	Taylor Swift	Red	Country	7385440	223	2012	41
+All Too Well	Taylor Swift	Red	Country	10263305	329	2012	41
+The Man	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	10126484	250	2014	40
+DNA.	Kendrick Lamar	DAMN.	Hip-Hop/Rap	6736963	185	2017	40
+American Kids	Kenny Chesney	The Big Revival	Country	7888394	183	2014	40
+Feelin’ It	Scotty McCreery	See You Tonight - Deluxe Edition	Country	7946808	198	2013	40
+Meet Me In the Bathroom	The Strokes	Room On Fire	Alternative	6375432	176	2003	40
+All You Had To Do Was Stay	Taylor Swift	1989 (Deluxe)	Pop	7861554	193	2014	40
+Photograph	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	10469217	259	2014	39
+Bloodstream	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	12120158	300	2014	39
+Homeboy	Eric Church	Chief	Country	7119564	227	2011	39
+I Wish You Would	Taylor Swift	1989 (Deluxe)	Pop	8426830	207	2014	39
+That’s Damn Rock & Roll	Eric Church	The Outsiders	Country	10797914	266	2014	38
+Dark Side	Eric Church	The Outsiders	Country	8863500	218	2014	38
+Tonight Looks Good On You	Jason Aldean	"Old Boots, New Dirt"	Country	4142349	231	2014	38
+Biting Down	Lorde	Pure Heroine (Extended)	Pop	8610000	213	2013	38
+Hungover & Hard Up	Eric Church	Chief	Country	5483169	173	2011	37
+"Devil, Devil (Prelude: Princess of Darkness)"	Eric Church	The Outsiders	Country	19450468	482	2014	37
+Take Me To Church	Hozier	Hozier (Deluxe Version)	Singer/Songwriter	9955942	241	2014	37
+Leave the Night On	Sam Hunt	Montevallo	Country	7947255	192	2014	37
+I Know Places	Taylor Swift	1989 (Deluxe)	Pop	7957633	195	2014	37
+Whos Your Daddy	Toby Keith	35 Biggest Hits (disc 2)	Country	9548987	238	2008	37
+I Knew You Were Trouble	Taylor Swift	Red	Country	6588977	219	2012	36
+Welcome To New York	Taylor Swift	1989 (Deluxe)	Pop	8633722	212	2014	36
+Sangria	Blake Shelton	BRINGING BACK THE SUNSHINE	Country	9540688	234	2014	35
+Lonely Tonight (feat. Ashley Monroe)	Blake Shelton	BRINGING BACK THE SUNSHINE	Country	8925301	218	2014	34
+Gods & Monsters	Lana Del Rey	Born To Die - The Paradise Edition	General Indie Pop	9862877	237	2012	34
+Swingin Party	Lorde	Pure Heroine (Extended)	Pop	8957917	222	2013	34
+Take A Back Road	Rodney Atkins	Take A Back Road	Country	8475334	209	2011	34
+Heart In a Cage	The Strokes	First Impressions of Earth	Pop	7579819	206	2005	34
+Here's To the Good Times	Florida Georgia Line	Here's To The Good Times...This Is How We Roll	Country	10041505	249	2013	33
+Merry Go 'Round	Kacey Musgraves	Same Trailer Different Park	Country	8521980	208	2013	33
+Good Morning	Kanye West	Graduation	Hip-Hop/Rap	6999721	195	2010	33
+Razorblade	The Strokes	First Impressions of Earth	Pop	7415535	208	2005	33
+Ask Me Anything	The Strokes	First Impressions of Earth	Pop	7101728	189	2005	33
+goosebumps	Travis Scott	Birds in the Trap Sing McKnight	Hip Hop/Rap	8584624	243	2016	33
+Tenerife Sea	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	9763915	241	2014	32
+Creepin'	Eric Church	Chief	Country	7673238	232	2011	32
+Get Your Shine On	Florida Georgia Line	Here's To The Good Times...This Is How We Roll	Country	8887924	220	2013	32
+Ride	Lana Del Rey	Born To Die - The Paradise Edition	General Indie Pop	11959987	289	2012	32
+Courtesy of The Red White And Blue (The Angry American)	Toby Keith	35 Biggest Hits (disc 2)	Country	7808227	195	2008	32
+Take It Back	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	8445253	208	2014	31
+Broke Record	Eric Church	The Outsiders	Country	8531343	209	2014	31
+Give Me Back My Hometown	Eric Church	The Outsiders	Country	10237276	252	2014	31
+Show You Off	Jason Aldean	"Old Boots, New Dirt"	Country	3430068	196	2014	31
+Too Fast	Jason Aldean	"Old Boots, New Dirt"	Country	3665191	202	2014	31
+Come Over	Kenny Chesney	Welcome to the Fishbowl	Country	10055955	249	2012	31
+American	Lana Del Rey	Born To Die - The Paradise Edition	General Indie Pop	10319497	248	2012	31
+Cola	Lana Del Rey	Born To Die - The Paradise Edition	General Indie Pop	10805375	261	2012	31
+Body Electric	Lana Del Rey	Born To Die - The Paradise Edition	General Indie Pop	9694648	233	2012	31
+Blue Velvet	Lana Del Rey	Born To Die - The Paradise Edition	General Indie Pop	6715644	158	2012	31
+Yayo	Lana Del Rey	Born To Die - The Paradise Edition	General Indie Pop	13211775	321	2012	31
+State Of Grace	Taylor Swift	Red	Country	9521386	295	2012	31
+Springsteen	Eric Church	Chief	Country	8151014	263	2011	30
+Change Your Life (feat. T.I.)	Iggy Azalea	The New Classic (Deluxe Version)	Hip-Hop/Rap	8970172	220	2014	30
+BLOOD.	Kendrick Lamar	DAMN.	Hip-Hop/Rap	4579893	118	2017	30
+Thinking Out Loud	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	11372023	281	2014	29
+Afire Love	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	12681448	314	2014	29
+Shirtsleeves	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	7719049	190	2014	29
+LOVE. (FEAT. ZACARI.)	Kendrick Lamar	DAMN.	Hip-Hop/Rap	7616133	213	2017	29
+Pirate Flag	Kenny Chesney	Life on a Rock	Country	9152935	226	2013	29
+Bel Air	Lana Del Rey	Born To Die - The Paradise Edition	General Indie Pop	9961097	240	2012	29
+Walk the Line	Iggy Azalea	The New Classic (Deluxe Version)	Hip-Hop/Rap	8879180	218	2014	28
+Daylight	Aesop Rock	Daylight - EP	Hip Hop/Rap	9345280	265	2002	27
+Even My Dad Does Sometimes	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	9250898	228	2014	27
+WIFI LIT	Future	BEASTMODE 2	Hip-Hop/Rap	6296548	176	2018	27
+Deja Vu	J. Cole	4 Your Eyez Only	Hip Hop/Rap	9173088	266	2016	27
+Homecoming	Kanye West & Chris Martin	Graduation	Hip-Hop/Rap	7307187	203	2010	27
+House Party	Sam Hunt	Montevallo	Country	7904398	191	2014	27
+Bringing Back the Sunshine	Blake Shelton	BRINGING BACK THE SUNSHINE	Country	9830163	241	2014	26
+I See Fire	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	12075225	299	2014	26
+Country Music Jesus	Eric Church	Chief	Country	7642775	232	2011	26
+Champion	Kanye West	Graduation	Hip-Hop/Rap	6110811	167	2010	26
+Gold (feat. Eighty4 Fly)	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	10169895	251	2012	26
+Break Up in a Small Town	Sam Hunt	Montevallo	Country	9502075	231	2014	26
+Do U Love Me	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	7393702	209	2017	26
+Gives You Hell	The All-American Rejects	When the World Comes Down (Deluxe Edition)	Alternative	3508968	213	2008	25
+Cruise	Florida Georgia Line	Here's To The Good Times...This Is How We Roll	Country	8395755	208	2013	25
+Stay	Florida Georgia Line	Here's To The Good Times...This Is How We Roll	Country	7996600	198	2013	25
+Where the White Boys Dance	The Killers	Sawdust	Alternative	7482038	206	2007	25
+Vision of Division	The Strokes	First Impressions of Earth	Pop	9295664	259	2005	25
+Add It Up	Violent Femmes	Violent Femmes	Alternative	10436740	284	1983	25
+Honey Bee	Blake Shelton	Red River Blue	Country	6779087	210	2011	24
+Gyalchester	Drake	More Life	Hip-Hop/Rap	6704499	189	2017	24
+Just a Phase	Incubus	Morning View	Alternative	11366286	329	2001	24
+Aqueous Transmission	Incubus	Morning View	Alternative	16567613	466	2001	24
+When I See This Bar	Kenny Chesney	Life on a Rock	Country	14614632	362	2013	24
+Between Love & Hate	The Strokes	Room On Fire	Alternative	7060691	196	2003	24
+For Y'all (feat. Jacquees)	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	7709044	219	2017	24
+Chanel (Go Get It) [feat. Gunna & Lil Baby]	Young Thug & Young Stoner Life Records	Slime Language	Hip-Hop/Rap	7147042	201	2018	24
+Small Town Big Time	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	9388075	231	2013	23
+Buzzin' (feat. RaeLynn)	Blake Shelton	BRINGING BACK THE SUNSHINE	Country	9276361	227	2014	23
+Ice Melts (feat. Young Thug)	Drake	More Life	Hip-Hop/Rap	8795320	250	2017	23
+The A Team	Ed Sheeran	#NAME?	Singer/Songwriter	10521506	258	2011	23
+The Percocet & Stripper Joint	Future	DS2 (Deluxe)	Hip-Hop/Rap	5411103	148	2015	23
+Mask Off	Future	FUTURE	Hip-Hop/Rap	7231524	204	2017	23
+Nowhere	Future	SUPERFLY (Original Motion Picture Soundtrack)	Hip-Hop/Rap	9345766	270	2018	23
+Wild Child (with Grace Potter)	Kenny Chesney	The Big Revival	Country	8162175	189	2014	23
+Feel like a Rock Star (with Tim McGraw)	Kenny Chesney	Welcome to the Fishbowl	Country	8419705	208	2012	23
+White Walls (feat. ScHoolboy Q & Hollis)	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	8922302	220	2012	23
+"Give 'Em Hell, Kid"	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	5558005	138	2004	23
+I'm Not Okay (I Promise)	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	7545407	188	2004	23
+Im Just Talkin About Tonight	Toby Keith	35 Biggest Hits (disc 2)	Country	6637980	165	2008	23
+Anybody (feat. Nicki Minaj)	Young Thug	Hear No Evil - Single	Hip-Hop/Rap	8841335	254	2018	23
+Gonna	Blake Shelton	BRINGING BACK THE SUNSHINE	Country	7527166	183	2014	22
+Blue Tint	Drake	Scorpion	Hip-Hop/Rap	5836094	162	2018	22
+Fancy (feat. Charli XCX)	Iggy Azalea	The New Classic (Deluxe Version)	Hip-Hop/Rap	8137362	199	2014	22
+Blowin' Smoke	Kacey Musgraves	Same Trailer Different Park	Country	7725768	188	2013	22
+The Big Revival	Kenny Chesney	The Big Revival	Country	8222764	191	2014	22
+Girls	Miranda Lambert	Platinum	Country	8699986	215	2014	22
+Platinum	Miranda Lambert	Platinum	Country	7737635	191	2014	22
+22	Taylor Swift	Red	Country	7993449	232	2012	22
+We Are Never Ever Getting Back Together	Taylor Swift	Red	Country	6095986	193	2012	22
+Sure Be Cool If You Did	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	8755912	215	2013	21
+Do You Remember	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	8496777	209	2013	21
+Country On the Radio	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	9463308	233	2013	21
+Doin' What She Likes	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	9063112	223	2013	21
+God Gave Me You	Blake Shelton	Red River Blue	Country	7935480	230	2011	21
+I Like It	"Cardi B, Bad Bunny & J Balvin"	Invasion of Privacy	Hip-Hop/Rap	8823645	253	2018	21
+Portland (feat. Quavo & Travis Scott)	Drake	More Life	Hip-Hop/Rap	8352091	236	2017	21
+Runaway	Ed Sheeran	x (Deluxe Edition)	Singer/Songwriter	8314631	205	2014	21
+It'z Just What We Do	Florida Georgia Line	Here's To The Good Times...This Is How We Roll	Country	8824191	219	2013	21
+Jackie and Wilson	Hozier	Hozier (Deluxe Version)	Singer/Songwriter	9213020	223	2014	21
+If My Truck Could Talk	Jason Aldean	"Old Boots, New Dirt"	Country	3808311	210	2014	21
+XXX. (FEAT. U2.)	Kendrick Lamar	DAMN.	Hip-Hop/Rap	8977366	254	2017	21
+The Heart Part 4	Kendrick Lamar	The Heart Part 4 - Single	Hip-Hop/Rap	9967796	288	2017	21
+Beer In Mexico	Kenny Chesney	Greatest Hits II	Country	7606803	270	2009	21
+To The End	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	7245507	181	2004	21
+You Know What They Do To Guys Like Us In Prison	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	6954017	173	2004	21
+See You Tonight	Scotty McCreery	See You Tonight - Deluxe Edition	Country	9081578	227	2013	21
+Style	Taylor Swift	1989 (Deluxe)	Pop	9369346	231	2014	21
+"10,000 Emerald Pools"	BØRNS	Dopamine	Alternative	6327537	174	2014	20
+Redbone	Childish Gambino	"Awaken, My Love!"	R&B/Soul	11574168	326	2016	20
+Smoke A Little Smoke	Eric Church	Carolina	Country	5113655	191	2009	20
+Slave Master	Future	DS2 (Deluxe)	Hip-Hop/Rap	7016708	199	2015	20
+Angel of Small Death & the Codeine Scene	Hozier	Hozier (Deluxe Version)	Singer/Songwriter	9056331	219	2014	20
+Next Exit	Interpol	Antics	Indie	3213419	200	2004	20
+Evil	Interpol	Antics	Indie	3464383	215	2004	20
+King's Dead	"Jay Rock, Kendrick Lamar, Future, James Blake"	Black Panther The Album Music From And Inspired By	Hip-Hop/Rap	7999459	225	2018	20
+Cold Blooded	Khalid	American Teen	R&B/Soul	7471447	207	2017	20
+Ric Flair Drip	Offset & Metro Boomin	Without Warning	Hip-Hop/Rap	6219925	172	2017	20
+Parachute	Chris Stapleton	Traveller	Country	9106837	253	2015	19
+Don't Matter To Me	Drake & Michael Jackson	Scorpion	Hip-Hop/Rap	8615093	245	2018	19
+Without You Here	Eric Church	Carolina	Country	4594249	162	2009	19
+Those I've Loved	Eric Church	Carolina	Country	7766280	305	2009	19
+My Collection	Future	HNDRXX	Hip-Hop/Rap	8959912	255	2017	19
+Use Me	Future	HNDRXX	Hip-Hop/Rap	9066874	256	2017	19
+Solo	Future	HNDRXX	Hip-Hop/Rap	9266894	265	2017	19
+Narc	Interpol	Antics	Indie	3977125	247	2004	19
+Cuando Tú Quieras	J Balvin	Vibras	Urbano latino	7339602	205	2018	19
+Stronger	Kanye West	Graduation	Hip-Hop/Rap	10934245	311	2010	19
+ELEMENT.	Kendrick Lamar	DAMN.	Hip-Hop/Rap	7444433	208	2017	19
+HUMBLE.	Kendrick Lamar	DAMN.	Hip-Hop/Rap	6384108	177	2017	19
+Drink It Up	Kenny Chesney	The Big Revival	Country	7264588	167	2014	19
+Jimmy Iovine (feat. Ab-Soul)	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	9436380	233	2012	19
+A Wake (feat. Evan Roman)	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	9152165	226	2012	19
+Starting Over (feat. Ben Bridwell)	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	10157366	251	2012	19
+Ex To See	Sam Hunt	Montevallo	Country	8225173	199	2014	19
+Cop Car	Sam Hunt	Montevallo	Country	10414233	253	2014	19
+Relationship (feat. Future)	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	7591851	215	2017	19
+Feel It	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	8322990	236	2017	19
+Mo Reala (feat. Future)	Zaytoven	Trapholizay	Hip-Hop/Rap	9746932	278	2018	19
+Boys 'Round Here (feat. Pistol Annies & Friends)	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	11718198	289	2013	18
+Mine Would Be You	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	9759014	240	2013	18
+Whatever She's Got	David Nail	I'm A Fire	Country	9357220	232	2014	18
+Ratchet Happy Birthday	Drake	Scorpion	Hip-Hop/Rap	7212061	207	2018	18
+Draco	Future	FUTURE	Hip-Hop/Rap	7921488	225	2017	18
+Incredible	Future	HNDRXX	Hip-Hop/Rap	8731006	248	2017	18
+Neighbors	J. Cole	4 Your Eyez Only	Hip Hop/Rap	7766541	216	2016	18
+Why Don't We Just Dance	Josh Turner	Haywire	Country	5218249	194	2010	18
+I Miss You	Kacey Musgraves	Same Trailer Different Park	Country	9380886	230	2013	18
+Follow Your Arrow	Kacey Musgraves	Same Trailer Different Park	Country	8213735	201	2013	18
+Foundations (Full Explicit Version)	Kate Nash	Made of Bricks (Bonus Track Version)	Pop	9416489	245	2007	18
+I Don't Dance	Lee Brice	I Don't Dance (Deluxe Edition)	Country	9765144	239	2014	18
+Girl Crush	Little Big Town	Pain Killer	Country	5176434	193	2014	18
+Helena	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	8117993	202	2004	18
+How Country Feels	Randy Houser	How Country Feels	Country	7503071	185	2013	18
+Take Your Time	Sam Hunt	Montevallo	Country	9974349	242	2014	18
+Treacherous	Taylor Swift	Red	Country	7419289	242	2012	18
+The Last Time (Feat. Gary Lightbody Of Snow Patrol)	Taylor Swift	Red	Country	8690398	299	2012	18
+Holy Ground	Taylor Swift	Red	Country	6677244	202	2012	18
+Deer For My Horses (With Willie Nelson)	Toby Keith	35 Biggest Hits (disc 2)	Country	8461272	211	2008	18
+pick up the phone	Travis Scott & Young Thug	Birds in the Trap Sing McKnight	Hip-Hop/Rap	8910819	252	2016	18
+Me Or Us	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	5694082	157	2017	18
+Climax (feat. 6LACK)	Young Thug	On the Rvn - EP	Hip-Hop/Rap	6818635	189	2018	18
+Ain't Killed Me Yet	Eric Church	Carolina	Country	6127453	202	2009	17
+Jack Daniels	Eric Church	Chief	Country	9612518	304	2011	17
+Glamorous	Fergie	The Dutchess	Pop	8737456	246	2006	17
+"December, 1963 (Oh, What a Night)"	The Four Seasons	The Very Best of Frankie Valli and the Four Seasons	Rock	7831617	201	2002	17
+CUDDLE MY WRIST	Future	BEASTMODE 2	Hip-Hop/Rap	6458744	181	2018	17
+RACKS BLUE	Future	BEASTMODE 2	Hip-Hop/Rap	7188692	204	2018	17
+Super Trapper	Future	FUTURE	Hip-Hop/Rap	8139275	230	2017	17
+Testify	Future	HNDRXX	Hip-Hop/Rap	6380731	178	2017	17
+The Story of O.J.	JAY-Z	4:44	Hip-Hop/Rap	8216580	231	2017	17
+Haywire	Josh Turner	Haywire	Country	5586460	205	2010	17
+All Mine	Kanye West	ye	Hip-Hop/Rap	5356420	145	2018	17
+Living In Fast Forward	Kenny Chesney	Greatest Hits II	Country	5731552	212	2009	17
+Make You Miss Me	Sam Hunt	Montevallo	Country	9287849	225	2014	17
+Should've Said No	Taylor Swift	Fearless	Country	10008109	245	2009	17
+Up (feat. Lil Uzi Vert)	Young Thug	Hear No Evil - Single	Hip-Hop/Rap	10391033	296	2018	17
+High (feat. Elton John)	Young Thug	On the Rvn - EP	Hip-Hop/Rap	6985506	195	2018	17
+Eyes On Fire	Blue Foundation	Twilight (Original Motion Picture Soundtrack)	Soundtrack	10488521	301	2008	16
+The Joint	Eric Church	The Outsiders	Country	9219661	227	2014	16
+Selfish (feat. Rihanna)	Future	HNDRXX	Hip-Hop/Rap	8865362	251	2017	16
+I Be U	Future	Honest (Deluxe)	Hip-Hop/Rap	8270516	232	2014	16
+Work	Iggy Azalea	The New Classic (Deluxe Version)	Hip-Hop/Rap	9068307	223	2014	16
+Ambiente	J Balvin	Vibras	Urbano latino	8819269	248	2018	16
+I Wouldn't Be A Man	Josh Turner	Haywire	Country	5492960	213	2010	16
+"All Day (feat. Theophilus London, Allan Kingdom & Paul McCartney)"	Kanye West	"All Day (feat. Theophilus London, Allan Kingdom & Paul McCartney) - Single"	Hip-Hop/Rap	12633791	310	2015	16
+Yikes	Kanye West	ye	Hip-Hop/Rap	6797950	188	2018	16
+Drinking Class	Lee Brice	I Don't Dance (Deluxe Edition)	Country	8491414	207	2014	16
+The Ghost Of You	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	8142035	203	2004	16
+15 Minutes	The Strokes	First Impressions of Earth	Pop	9845902	273	2005	16
+The Way It Is	The Strokes	Room On Fire	Alternative	5239054	141	2003	16
+The Lucky One	Taylor Swift	Red	Country	7650806	240	2012	16
+Speak Now	Taylor Swift	Speak Now (Deluxe Version)	Country	10231124	240	2010	16
+Best Friend	Young Thug	Best Friend - Single	Hip-Hop	7581066	213	2015	16
+Now (feat. 21 Savage)	Young Thug	Hear No Evil - Single	Hip-Hop/Rap	7342608	206	2018	16
+Audemar (feat. Tracy T)	Young Thug & Young Stoner Life Records	Slime Language	Hip-Hop/Rap	7320495	207	2018	16
+F Sleep (feat. FKA twigs)	A$AP Rocky	TESTING	Hip-Hop/Rap	6988996	192	2018	15
+My Eyes (feat. Gwen Sebastian)	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	7762214	190	2013	15
+Granddaddy's Gun	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	8769496	216	2013	15
+Passionfruit	Drake	More Life	Hip-Hop/Rap	10465059	298	2017	15
+31 DAYS	Future	BEASTMODE 2	Hip-Hop/Rap	8464892	240	2018	15
+Used to This (feat. Drake)	Future	FUTURE	Hip-Hop/Rap	6523667	180	2016	15
+Transformer (feat. Nicki Minaj)	Future	Future & Juice WRLD Present... WRLD ON DRUGS	Hip-Hop/Rap	6972901	196	2018	15
+Look Ahead	Future	Honest (Deluxe)	Hip-Hop/Rap	7957652	213	2014	15
+Slow Hands	Interpol	Antics	Alternative	6603270	183	2004	15
+Vibras	J Balvin & Carla Morrison	Vibras	Urbano latino	2758588	66	2018	15
+"Old Boots, New Dirt"	Jason Aldean	"Old Boots, New Dirt"	Country	3195233	174	2014	15
+I Took It With Me	Jason Aldean	"Old Boots, New Dirt"	Country	3335249	182	2014	15
+YAH.	Kendrick Lamar	DAMN.	Hip-Hop/Rap	5860033	160	2017	15
+LOYALTY. (FEAT. RIHANNA.)	Kendrick Lamar	DAMN.	Hip-Hop/Rap	8075049	227	2017	15
+LUST.	Kendrick Lamar	DAMN.	Hip-Hop/Rap	10728900	307	2017	15
+Location	Khalid	American Teen	R&B/Soul	8219298	219	2016	15
+The Way Life Goes (Remix) [feat. Nicki Minaj & Oh Wonder]	Lil Uzi Vert	The Way Life Goes (Remix) [feat. Nicki Minaj & Oh Wonder] - Single	Hip-Hop/Rap	9303069	268	2017	15
+"Buy the World (feat. Future, Lil Wayne & Kendrick Lamar)"	Mike WiLL Made-It	Ransom	Hip-Hop/Rap	7897312	222	2014	15
+Smoking Jacket	Miranda Lambert	The Weight of These Wings	Country	10226528	294	2016	15
+Pushin' Time	Miranda Lambert	The Weight of These Wings	Country	7551557	213	2016	15
+Lemon	N.E.R.D & Rihanna	NO ONE EVER REALLY DIES	Hip-Hop/Rap	7758701	219	2017	15
+Raised on It	Sam Hunt	Montevallo	Country	9731926	236	2014	15
+Fearless	Taylor Swift	Fearless	Country	10112571	243	2009	15
+I Almost Do	Taylor Swift	Red	Country	7472659	244	2012	15
+Stay Stay Stay	Taylor Swift	Red	Country	6301823	205	2012	15
+Out of the Woods	Taylor Swift	1989 (Deluxe)	Pop	9561589	235	2014	15
+As Good As I Once Was	Toby Keith	35 Biggest Hits (disc 2)	Country	9122675	228	2008	15
+Tony Tone	A$AP Rocky	TESTING	Hip-Hop/Rap	7415360	208	2018	14
+OG Beeper	A$AP Rocky	TESTING	Hip-Hop/Rap	5710448	155	2018	14
+Lay Low	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	7921038	194	2013	14
+Ten Times Crazier	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	7495765	184	2013	14
+Frame of Mine (Bonus Track)	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	8188532	201	2013	14
+A Girl	Blake Shelton	BRINGING BACK THE SUNSHINE	Country	8835380	216	2014	14
+You Make It Look So Easy	Eric Church	Carolina	Country	5644772	255	2009	14
+Faster Than My Angels Can Fly (Bonus Track)	Eric Church	Carolina	Country	6574831	229	2009	14
+Sinners Like Me	Eric Church	Sinners Like Me	Country	9392896	233	2006	14
+SOME MORE	Future	BEASTMODE 2	Hip-Hop/Rap	7564602	213	2018	14
+Mi Gente	J Balvin & Willy William	Vibras	Urbano latino	6706712	185	2017	14
+My Kinda Party	Jason Aldean	My Kinda Party	Country	9726563	284	2010	14
+Smile (feat. Gloria Carter)	JAY-Z	4:44	Hip-Hop/Rap	10167708	289	2017	14
+Silver Lining	Kacey Musgraves	Same Trailer Different Park	Country	9371482	230	2013	14
+Good Life	Kanye West & T-Pain	Graduation	Hip-Hop/Rap	7366054	206	2010	14
+Beer Can Chicken	Kenny Chesney	The Big Revival	Country	10460936	247	2014	14
+4th Dimension (feat. Louis Prima)	KIDS SEE GHOSTS	KIDS SEE GHOSTS	Hip-Hop/Rap	5632877	153	2018	14
+That Don't Sound Like You	Lee Brice	I Don't Dance (Deluxe Edition)	Country	8620993	210	2014	14
+Can't Hold Us (feat. Ray Dalton)	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	10446800	258	2012	14
+Walk It Talk It (feat. Drake)	Migos	Culture II	Hip-Hop/Rap	9694764	276	2018	14
+Too Playa (feat. 2 Chainz)	Migos	Culture II	Hip-Hop/Rap	10824008	312	2018	14
+Sky Walker (feat. Travis Scott)	Miguel	War & Leisure	R&B/Soul	9068862	259	2017	14
+Little Lion Man	Mumford & Sons	Sigh No More	Folk-Rock	6014843	247	2010	14
+Interlude	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	2291645	57	2004	14
+Drew Barrymore	SZA	Ctrl	R&B/Soul	8178388	231	2017	14
+The Story Of Us	Taylor Swift	Speak Now (Deluxe Version)	Country	11271895	265	2010	14
+Icey	Young Thug	On the Rvn - EP	Hip-Hop/Rap	8195877	232	2018	14
+Liger	"Young Thug, Carnage & Young Stoner Life Records"	Young Martha - EP	Hip-Hop/Rap	7441165	208	2017	14
+Praise the Lord (Da Shine) [feat. Skepta]	A$AP Rocky	TESTING	Hip-Hop/Rap	7304036	205	2018	13
+Estamos Bien	Bad Bunny	Estamos Bien - Single	Urbano latino	7443597	208	2018	13
+I Still Got a Finger	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	8885479	219	2013	13
+"Top Off (feat. JAY Z, Future & Beyoncé)"	DJ Khaled	"Top Off (feat. JAY Z, Future & Beyoncé) - Single"	Hip-Hop/Rap	8159270	230	2018	13
+Jorja Interlude	Drake	More Life	Hip-Hop/Rap	4137812	107	2017	13
+Madiba Riddim	Drake	More Life	Hip-Hop/Rap	7214306	205	2017	13
+That's How You Feel	Drake	Scorpion	Hip-Hop/Rap	5722470	157	2018	13
+Carolina	Eric Church	Carolina	Country	6907555	279	2009	13
+Hell On The Heart	Eric Church	Carolina	Country	4661500	164	2009	13
+Kill a Word	Eric Church	Mr. Misunderstood	Country	7319964	199	2015	13
+Thought It Was a Drought	Future	DS2 (Deluxe)	Hip-Hop/Rap	9307291	265	2015	13
+POA	Future	FUTURE	Hip-Hop/Rap	8771736	248	2017	13
+Afterlife	Future	Future & Juice WRLD Present... WRLD ON DRUGS	Hip-Hop/Rap	7610188	214	2018	13
+Honest	Future	Honest (Deluxe)	Hip-Hop/Rap	7130542	200	2013	13
+Georgia (feat. Young Thug)	Future	SUPERFLY (Original Motion Picture Soundtrack)	Hip-Hop/Rap	5732964	163	2018	13
+Someone New	Hozier	Hozier (Deluxe Version)	Singer/Songwriter	9200513	222	2014	13
+Not Even Jail	Interpol	Antics	Indie	5556592	346	2004	13
+For Whom the Bell Tolls	J. Cole	4 Your Eyez Only	Hip Hop/Rap	4876401	127	2016	13
+Comin' In Hot	Jason Aldean	They Don't Know	Country	6683481	179	2016	13
+Any Ol' Barstool	Jason Aldean	They Don't Know	Country	7253547	203	2016	13
+Your Smile	Josh Turner	Haywire	Country	5670726	217	2010	13
+I Wonder	Kanye West	Graduation	Hip-Hop/Rap	8620230	243	2010	13
+PRIDE.	Kendrick Lamar	DAMN.	Hip-Hop/Rap	9723022	275	2017	13
+Flora-Bama	Kenny Chesney	The Big Revival	Country	11405519	270	2014	13
+Love Lies	Khalid & Normani	"Love, Simon (Original Motion Picture Soundtrack)"	R&B/Soul	7084582	200	2018	13
+Fire	KIDS SEE GHOSTS	KIDS SEE GHOSTS	Hip-Hop/Rap	5350057	140	2018	13
+Wing$	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	12093533	299	2012	13
+Notice Me (feat. Post Malone)	Migos	Culture II	Hip-Hop/Rap	8259615	233	2018	13
+Smokin' And Drinkin' (Feat. Little Big Town)	Miranda Lambert	Platinum	Country	13324705	330	2014	13
+Vice	Miranda Lambert	The Weight of These Wings	Country	8398652	240	2016	13
+Covered Wagon	Miranda Lambert	The Weight of These Wings	Country	8862871	248	2016	13
+The Jetset Life Is Gonna Kill You	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	8714656	217	2004	13
+Speakers	Sam Hunt	Montevallo	Country	9303510	226	2014	13
+Sad Beautiful Tragic	Taylor Swift	Red	Country	7331530	284	2012	13
+Bad Blood	Taylor Swift	1989 (Deluxe)	Pop	8607600	211	2014	13
+4 AM (feat. Travis Scott)	2 Chainz	Pretty Girls Like Trap Music	Hip-Hop/Rap	8983553	255	2017	13
+It's My Life	The Animals	Retrospective	Rock	6844664	186	2004	12
+Bounce Back	Big Sean	I Decided.	Hip Hop/Rap	7767189	222	2017	12
+I Found Someone (Bonus Track)	Blake Shelton	Based on a True Story... (Deluxe Version)	Country	8226149	202	2013	12
+No Problem (feat. Lil Wayne & 2 Chainz)	Chance the Rapper	Coloring Book	Hip-Hop/Rap	10630486	304	2016	12
+California	Childish Gambino	"Awaken, My Love!"	R&B/Soul	6121699	165	2016	12
+Nobody To Blame	Chris Stapleton	Traveller	Country	8548876	244	2015	12
+Viva la Vida	Coldplay	Viva la Vida	Alternative	8403931	241	2008	12
+Chek (feat. Future)	DJ ESCO	Kolorblind	Hip-Hop/Rap	7150576	202	2018	12
+Free Smoke	Drake	More Life	Hip-Hop/Rap	7784569	218	2017	12
+Peak	Drake	Scorpion	Hip-Hop/Rap	7337619	206	2018	12
+Two Pink Lines	Eric Church	Sinners Like Me	Country	8396063	208	2006	12
+Extra Luv (feat. YG)	Future	FUTURE	Hip-Hop/Rap	8824806	246	2017	12
+Never Satisfied (feat. Drake)	Future	Honest (Deluxe)	Hip-Hop/Rap	4349233	115	2014	12
+WRLD On Drugs	Future & Juice WRLD	Future & Juice WRLD Present... WRLD ON DRUGS	Hip-Hop/Rap	7616144	217	2018	12
+American Idiot	Green Day	American Idiot	Punk Rock	6095067	174	2004	12
+Take You On A Cruise	Interpol	Antics	Indie	4721348	294	2004	12
+Immortal	J. Cole	4 Your Eyez Only	Hip Hop/Rap	7147245	200	2016	12
+Ville Mentality	J. Cole	4 Your Eyez Only	Hip Hop/Rap	7073472	191	2016	12
+"She's Mine, Pt. 1"	J. Cole	4 Your Eyez Only	Hip Hop/Rap	7720576	212	2016	12
+Change	J. Cole	4 Your Eyez Only	Hip Hop/Rap	11782710	331	2016	12
+Lights Come On	Jason Aldean	They Don't Know	Country	7238491	194	2016	12
+Whiskey'd Up	Jason Aldean	They Don't Know	Country	6891011	191	2016	12
+Can't Tell Me Nothing	Kanye West	Graduation	Hip-Hop/Rap	9571512	271	2010	12
+Wouldn't Leave (feat. PARTYNEXTDOOR)	Kanye West	ye	Hip-Hop/Rap	7347171	205	2018	12
+Out Last Night (Previously Unreleased)	Kenny Chesney	Greatest Hits II	Country	4428940	201	2009	12
+There Goes My Life	Kenny Chesney	Greatest Hits II	Country	7059761	301	2009	12
+The Ways	"Khalid, Swae Lee"	Black Panther The Album Music From And Inspired By	Hip-Hop/Rap	8451138	238	2018	12
+Just What I Am (feat. King Chip)	Kid Cudi	Indicud	Hip-Hop/Rap	8092746	228	2012	12
+Feel the Love (feat. Pusha T)	KIDS SEE GHOSTS	KIDS SEE GHOSTS	Hip-Hop/Rap	6002529	165	2018	12
+Enterlude	The Killers	Sam's Town	Pop	2359771	49	2006	12
+I Drive Your Truck	Lee Brice	Hard 2 Love	Country	9779350	243	2012	12
+Dedicate	Lil Wayne	Tha Carter V	Hip-Hop/Rap	6821541	189	2018	12
+Muckalee Creek Water	Luke Bryan	Tailgates and Tanlines	Country	9460694	236	2011	12
+Little Red Wagon	Miranda Lambert	Platinum	Country	8272623	204	2014	12
+Priscilla	Miranda Lambert	Platinum	Country	8370843	206	2014	12
+Runnin' Just in Case	Miranda Lambert	The Weight of These Wings	Country	9559787	273	2016	12
+Highway Vagabond	Miranda Lambert	The Weight of These Wings	Country	8656184	233	2016	12
+Ugly Lights	Miranda Lambert	The Weight of These Wings	Country	6437986	181	2016	12
+We Should Be Friends	Miranda Lambert	The Weight of These Wings	Country	6052932	170	2016	12
+Getaway Driver	Miranda Lambert	The Weight of These Wings	Country	8239721	233	2016	12
+The Cave	Mumford & Sons	Sigh No More	Folk-Rock	4710478	218	2010	12
+"It's Not A Fashion Statement, It's A Fucking Death Wish"	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	8439871	210	2004	12
+FLIP THE SWITCH (feat. Drake)	Quavo	QUAVO HUNCHO	Hip-Hop/Rap	5712699	156	2018	12
+GO ALL THE WAY	Quavo	QUAVO HUNCHO	Hip-Hop/Rap	6950803	196	2018	12
+Hey Stephen	Taylor Swift	Fearless	Country	10579737	256	2009	12
+Everything Has Changed (Feat. Ed Sheeran)	Taylor Swift	Red	Country	7642685	245	2012	12
+Starboy (feat. Daft Punk)	The Weeknd	Starboy	R&B/Soul	8075057	230	2016	12
+Family Don't Matter (feat. Millie Go Lightly)	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	10309023	295	2017	12
+You Said (feat. Quavo)	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	13783892	402	2017	12
+Gain Clout	Young Thug & Young Stoner Life Records	Slime Language	Hip-Hop/Rap	4640245	125	2018	12
+Rap Saved Me (feat. Quavo)	"21 Savage, Offset & Metro Boomin"	Without Warning	Hip-Hop/Rap	9053128	257	2017	12
+San Franciscan Nights	The Animals	Retrospective	Rock	8183707	200	2004	11
+Austin	Blake Shelton	Blake Shelton	Country	5517678	229	2001	11
+Summer Friends (feat. Jeremih & Francis & The Lights)	Chance the Rapper	Coloring Book	Hip-Hop/Rap	10032762	290	2016	11
+Wagon Wheel	Darius Rucker	True Believers (Deluxe Version)	Country	12092731	298	2013	11
+Psychedelik Smoke (feat. Future & Ty Dolla $ign)	DJ ESCO	Kolorblind	Hip-Hop/Rap	6477877	181	2018	11
+Blem	Drake	More Life	Hip-Hop/Rap	7736539	216	2017	11
+Skepta Interlude	Drake	More Life	Hip-Hop/Rap	5247991	143	2017	11
+Sandra's Rose	Drake	Scorpion	Hip-Hop/Rap	7634788	216	2018	11
+Digital Dash	Drake & Future	What a Time To Be Alive	Hip-Hop/Rap	8170282	231	2015	11
+Lightning	Eric Church	Sinners Like Me	Country	12733428	317	2006	11
+Grease	Frankie Valli	The Very Best of Frankie Valli and the Four Seasons	Rock	7558491	201	2002	11
+Rent Money	Future	FUTURE	Hip-Hop/Rap	9357601	265	2017	11
+You da Baddest (feat. Nicki Minaj)	Future	HNDRXX	Hip-Hop/Rap	8543026	242	2017	11
+No Es Justo	J Balvin & Zion & Lennox	Vibras	Urbano latino	8832462	250	2018	11
+Foldin Clothes	J. Cole	4 Your Eyez Only	Hip Hop/Rap	10996634	316	2016	11
+A Little More Summertime	Jason Aldean	They Don't Know	Country	8115956	219	2016	11
+When The Sun Goes Down (Duet With Uncle Kracker)	Kenny Chesney	Greatest Hits II	Country	7273255	290	2009	11
+Suncity (feat. Empress Of)	Khalid	Suncity	R&B/Soul	6746248	189	2018	11
+Runaways	The Killers	Battle Born (Deluxe Edition)	Rock	9793507	243	2012	11
+Sam's Town (Live from Abbey Road)	The Killers	Sawdust	Alternative	7917803	223	2007	11
+Crawl	Kings of Leon	Only By the Night (Deluxe Version)	Alternative	8685008	246	2008	11
+Mona Lisa (feat. Kendrick Lamar)	Lil Wayne	Tha Carter V	Hip-Hop/Rap	11244928	324	2018	11
+Day Drinking	Little Big Town	Pain Killer	Country	6178746	178	2014	11
+Dreamcatcher (feat. Swae Lee & Travis Scott)	Metro Boomin	NOT ALL HEROES WEAR CAPES	Hip-Hop/Rap	7579410	211	2018	11
+Pink Sunglasses	Miranda Lambert	The Weight of These Wings	Country	8573456	246	2016	11
+Use My Heart	Miranda Lambert	The Weight of These Wings	Country	8120798	230	2016	11
+Tin Man	Miranda Lambert	The Weight of These Wings	Country	9057859	259	2016	11
+Cemetery Drive	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	7527634	188	2004	11
+Kites	"N.E.R.D, Kendrick Lamar & MIA"	NO ONE EVER REALLY DIES	Hip-Hop/Rap	10109742	290	2017	11
+Tell Me Why	Taylor Swift	Fearless	Country	8357509	201	2009	11
+Our Song	Taylor Swift	Fearless	Country	8264627	201	2009	11
+Dear John	Taylor Swift	Speak Now (Deluxe Version)	Country	16861821	403	2010	11
+Wildest Dreams	Taylor Swift	1989 (Deluxe)	Pop	8947201	220	2014	11
+BUTTERFLY EFFECT	Travis Scott	ASTROWORLD	Hip-Hop/Rap	7032654	190	2017	11
+Take Care	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	7666467	217	2017	11
+"A$AP Forever (feat. Moby, T.I. & Kid Cudi)"	A$AP Rocky	TESTING	Hip-Hop/Rap	11009449	315	2018	10
+Don't Bring Me Down	The Animals	Retrospective	Rock	7234699	195	2004	10
+Rollin (feat. Future & Khalid)	Calvin Harris	Funk Wav Bounces Vol. 1	Dance	9562295	272	2017	10
+Mixtape (feat. Young Thug & Lil Yachty)	Chance the Rapper	Coloring Book	Hip-Hop/Rap	10188929	292	2016	10
+Whiskey and You	Chris Stapleton	Traveller	Country	8238518	236	2015	10
+Get It Together (feat. Black Coffee & Jorja Smith)	Drake	More Life	Hip-Hop/Rap	8908343	250	2017	10
+Sacrifices (feat. 2 Chainz & Young Thug)	Drake	More Life	Hip-Hop/Rap	10690943	307	2017	10
+Glow (feat. Kanye West)	Drake	More Life	Hip-Hop/Rap	7541740	206	2017	10
+Emotionless	Drake	Scorpion	Hip-Hop/Rap	10450341	302	2018	10
+Summer Games	Drake	Scorpion	Hip-Hop/Rap	8645354	247	2018	10
+Lotta Boot Left To Fill	Eric Church	Carolina	Country	6061900	204	2009	10
+My Heart's Got A Memory (Bonus Track)	Eric Church	Carolina	Country	5076008	172	2009	10
+His Kind Of Money (My Kind Of Love) (Bonus Track)	Eric Church	Carolina	Country	6423813	221	2009	10
+This Is How We Roll (feat. Luke Bryan)	Florida Georgia Line	Here's To The Good Times...This Is How We Roll	Country	8889010	220	2013	10
+Can't Take My Eyes Off You	Frankie Valli	The Very Best of Frankie Valli and the Four Seasons	Rock	8173774	203	2002	10
+Blow a Bag	Future	DS2 (Deluxe)	Hip-Hop/Rap	6959578	194	2015	10
+I Won (feat. Kanye West)	Future	Honest (Deluxe)	Hip-Hop/Rap	8513814	239	2014	10
+Astronauts	Future & Juice WRLD	Future & Juice WRLD Present... WRLD ON DRUGS	Hip-Hop/Rap	6153048	169	2018	10
+Peligrosa	"J Balvin, Wisin & Yandel"	Vibras	Pop Latino	7248821	202	2018	10
+Dirt Road Anthem	Jason Aldean	My Kinda Party	Country	7421410	229	2010	10
+It Ain't Easy	Jason Aldean	My Kinda Party	Country	5903883	181	2010	10
+The Way a Night Should Feel	Jason Aldean	They Don't Know	Country	6637535	184	2016	10
+Kill Jay Z	JAY-Z	4:44	Hip Hop/Rap	6477594	178	2017	10
+Caught Their Eyes (feat. Frank Ocean)	JAY-Z	4:44	Hip-Hop/Rap	7374932	206	2017	10
+Moonlight	JAY-Z	4:44	Hip-Hop/Rap	5305712	143	2017	10
+Dandelion	Kacey Musgraves	Same Trailer Different Park	Country	7549180	184	2013	10
+I Thought About Killing You	Kanye West	ye	Hip-Hop/Rap	9588710	274	2018	10
+Everything I Am	Kanye West & DJ Premier	Graduation	Hip-Hop/Rap	8123085	227	2010	10
+FEEL.	Kendrick Lamar	DAMN.	Hip-Hop/Rap	7640991	214	2017	10
+untitled 03 l 05.28.2013.	Kendrick Lamar	untitled unmastered.	Hip-Hop/Rap	5495754	154	2016	10
+Summertime	Kenny Chesney	Greatest Hits II	Country	5477848	206	2009	10
+Welcome to the Fishbowl	Kenny Chesney	Welcome to the Fishbowl	Country	8487591	210	2012	10
+Young Dumb & Broke	Khalid	American Teen	R&B/Soul	7139443	202	2017	10
+Deadlines and Commitments	The Killers	Battle Born (Deluxe Edition)	Rock	10531239	262	2012	10
+The Rising Tide	The Killers	Battle Born (Deluxe Edition)	Rock	10320149	256	2012	10
+From Here On Out	The Killers	Battle Born (Deluxe Edition)	Rock	5949345	147	2012	10
+ZEZE (feat. Travis Scott & Offset)	Kodak Black	ZEZE (feat. Travis Scott & Offset) - Single	Hip-Hop/Rap	8085157	228	2018	10
+Pain Killer	Little Big Town	Pain Killer	Country	6075987	191	2014	10
+Cowboy Boots	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	10422748	257	2012	10
+10AM / Save the World (feat. Gucci Mane)	Metro Boomin	NOT ALL HEROES WEAR CAPES	Hip-Hop/Rap	8033712	226	2018	10
+Don't Come Out the House (feat. 21 Savage)	Metro Boomin	NOT ALL HEROES WEAR CAPES	Hip-Hop/Rap	6116011	168	2018	10
+10 Freaky Girls (feat. 21 Savage)	Metro Boomin	NOT ALL HEROES WEAR CAPES	Hip-Hop/Rap	7418005	208	2018	10
+Narcos	Migos	Culture II	Hip-Hop/Rap	8970561	255	2018	10
+Stir Fry	Migos	Culture II	Hip-Hop/Rap	6849979	190	2017	10
+You Wouldn't Know Me	Miranda Lambert	The Weight of These Wings	Country	7320688	199	2016	10
+Thank You For The Venom	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	8848393	221	2004	10
+Feel It Still	Portugal. The Man	Woodstock	Alternative	5942393	163	2017	10
+Santeria	Pusha T	DAYTONA	Hip-Hop/Rap	6372790	176	2018	10
+Du Hast (Live)	Rammstein	Family Values Tour '98	Rock	9514121	270	1999	10
+Paramedic!	SOB X RBE	Black Panther The Album Music From And Inspired By	Hip-Hop/Rap	7795759	219	2018	10
+"Thinkin (feat. Anuel AA, Bad Bunny & Future)"	Spiff TV	"Thinkin (feat. Anuel AA, Bad Bunny & Future) - Single"	Urbano latino	8604077	247	2018	10
+How You Get the Girl	Taylor Swift	1989 (Deluxe)	Pop	10030773	247	2014	10
+Get Me Some of That	Thomas Rhett	It Goes Like This	Country	6763872	188	2013	10
+It Goes Like This	Thomas Rhett	It Goes Like This	Country	6666408	187	2013	10
+American Soldier	Toby Keith	35 Biggest Hits (disc 2)	Country	10505070	262	2008	10
+Moonlight	XXXTENTACION	?	Pop	5022422	135	2018	10
+She Wanna Party (feat. Millie Go Lightly)	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	8826474	250	2017	10
+Wyclef Jean	Young Thug	JEFFERY	Hip-Hop	8363495	236	2016	10
+On The Run (feat. Offset)	Young Thug	On the Rvn - EP	Hip-Hop/Rap	9246157	263	2018	10
+It's a Slime (feat. Lil Uzi Vert)	Young Thug & Young Stoner Life Records	Slime Language	Hip-Hop/Rap	5220051	142	2018	10
+Homie (feat. Meek Mill)	"Young Thug, Carnage & Young Stoner Life Records"	Young Martha - EP	Hip-Hop/Rap	7699758	218	2017	10
+Don't Call Me (feat. Shakka)	"Young Thug, Carnage & Young Stoner Life Records"	Young Martha - EP	Hip-Hop/Rap	8362181	236	2017	10
+Good Drank (feat. Gucci Mane & Quavo)	2 Chainz	Pretty Girls Like Trap Music	Hip-Hop/Rap	7957392	225	2016	10
+CALLDROPS (feat. Kodak Black)	A$AP Rocky	TESTING	Hip-Hop/Rap	5938756	162	2018	9
+Buck Shots	A$AP Rocky	TESTING	Hip-Hop/Rap	6444998	167	2018	9
+Changes	A$AP Rocky	TESTING	Hip-Hop/Rap	10889310	314	2018	9
+Chasing Pavements	Adele	19	Pop	7465392	210	2008	9
+All We Got (feat. Kanye West & Chicago Children's Choir)	Chance the Rapper	Coloring Book	Hip-Hop/Rap	7283655	203	2016	9
+Same Drugs	Chance the Rapper	Coloring Book	Hip-Hop/Rap	9003073	257	2016	9
+Angels (feat. Saba)	Chance the Rapper	Coloring Book	Hip-Hop/Rap	7018541	206	2015	9
+Me and Your Mama	Childish Gambino	"Awaken, My Love!"	R&B/Soul	13459341	379	2016	9
+Have Some Love	Childish Gambino	"Awaken, My Love!"	R&B/Soul	7900154	224	2016	9
+Terrified	Childish Gambino	"Awaken, My Love!"	R&B/Soul	9008376	255	2016	9
+The Night Me and Your Mama Met	Childish Gambino	"Awaken, My Love!"	R&B/Soul	7558681	214	2016	9
+Kiss You Tonight	David Nail	I'm A Fire	Country	9240172	229	2014	9
+Teenage Fever	Drake	More Life	Hip-Hop/Rap	7652085	219	2017	9
+Is There More	Drake	Scorpion	Hip-Hop/Rap	7975023	226	2018	9
+Scholarships	Drake & Future	What a Time To Be Alive	Hip-Hop/Rap	7282915	209	2015	9
+Jumpman	Drake & Future	What a Time To Be Alive	Hip-Hop/Rap	7397157	205	2015	9
+Eraser	Ed Sheeran	÷ (Deluxe)	Pop	8047277	227	2017	9
+Young And Wild	Eric Church	Carolina	Country	5229610	195	2009	9
+Love Your Love The Most	Eric Church	Carolina	Country	4335896	170	2009	9
+Holdin' My Own	Eric Church	Mr. Misunderstood	Country	8320103	236	2015	9
+Three Year Old	Eric Church	Mr. Misunderstood	Country	8088332	224	2015	9
+DOH DOH (feat. Young Scooter)	Future	BEASTMODE 2	Hip-Hop/Rap	7718431	220	2018	9
+HATE THE REAL ME	Future	BEASTMODE 2	Hip-Hop/Rap	8410109	240	2018	9
+F Up Some Commas	Future	DS2 (Deluxe)	Hip-Hop/Rap	8268992	237	2014	9
+I'm so Groovy	Future	FUTURE	Hip-Hop/Rap	9023852	261	2017	9
+Covered n Money	Future	Honest (Deluxe)	Hip-Hop/Rap	7698132	215	2014	9
+"Earth to Bella, Pt. 1"	Incubus	Light Grenades	Rock	5481500	148	2006	9
+"She's Mine, Pt. 2"	J. Cole	4 Your Eyez Only	Hip Hop/Rap	9843398	278	2016	9
+When She Says Baby	Jason Aldean	Night Train	Country	6879888	171	2012	9
+First Time Again	Jason Aldean & Kelsea Ballerini	They Don't Know	Country	7586180	204	2016	9
+Marcy Me	JAY-Z	4:44	Hip-Hop/Rap	6326208	174	2017	9
+My House	Kacey Musgraves	Same Trailer Different Park	Country	6662062	162	2013	9
+The Glory	Kanye West	Graduation	Hip-Hop/Rap	7578240	212	2010	9
+untitled 04 l 08.14.2014.	Kendrick Lamar	untitled unmastered.	Hip-Hop/Rap	4225466	110	2016	9
+Big Shot	"Kendrick Lamar, Travis Scott"	Black Panther The Album Music From And Inspired By	Hip-Hop/Rap	7949052	221	2018	9
+Saved	Khalid	American Teen	R&B/Soul	7433586	206	2017	9
+8TEEN	Khalid	American Teen	R&B/Soul	8253954	228	2017	9
+Winter	Khalid	American Teen	R&B/Soul	8623904	241	2017	9
+Vertigo	Khalid	Suncity	R&B/Soul	9499830	270	2018	9
+Reborn	KIDS SEE GHOSTS	KIDS SEE GHOSTS	Hip-Hop/Rap	11281996	324	2018	9
+Human	The Killers	Day & Age (Deluxe Version)	Alternative	8697134	245	2008	9
+Green Light	Lorde	Melodrama	Alternative	8478629	234	2017	9
+Ten Thousand Hours	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	10090476	249	2012	9
+Thin Line (feat. Buffalo Madonna)	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	10355895	256	2012	9
+Castle	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	10427967	258	2012	9
+Good Ol' Days	Miranda Lambert	The Weight of These Wings	Country	7145631	198	2016	9
+Things That Break	Miranda Lambert	The Weight of These Wings	Country	8042783	227	2016	9
+For the Birds	Miranda Lambert	The Weight of These Wings	Country	8016265	226	2016	9
+Well-Rested	Miranda Lambert	The Weight of These Wings	Country	9747999	279	2016	9
+Tomboy	Miranda Lambert	The Weight of These Wings	Country	8419859	241	2016	9
+Roll Away Your Stone	Mumford & Sons	Sigh No More	Folk-Rock	6095649	263	2010	9
+1000	N.E.R.D & Future	NO ONE EVER REALLY DIES	Hip-Hop/Rap	8505604	243	2017	9
+LAMB TALK	Quavo	QUAVO HUNCHO	Hip-Hop/Rap	6194728	172	2018	9
+Waidmanns heil	Rammstein	Liebe ist für alle da (Deluxe Edition)	Rock	8027661	212	2009	9
+He's Mine	Rodney Atkins	Take A Back Road	Country	7738667	191	2011	9
+Single For the Summer	Sam Hunt	Montevallo	Country	12671272	310	2014	9
+Collard Greens (feat. Kendrick Lamar)	ScHoolboy Q	Oxymoron (Deluxe Version)	Hip-Hop/Rap	10888510	299	2013	9
+Yay Yay	Schoolboy Q	Yay Yay - Single	Hip-Hop/Rap	10994890	271	2013	9
+The Modern Age	The Strokes	Is This It	Other	5113147	212	2001	9
+Barely Legal	The Strokes	Is This It	Other	5721904	238	2001	9
+Fifteen	Taylor Swift	Fearless	Country	12253761	295	2009	9
+Clean	Taylor Swift	1989 (Deluxe)	Pop	10970086	271	2014	9
+90210 (feat. Kacy Hill)	Travis Scott	Rodeo (Deluxe)	Hip-Hop/Rap	12162946	339	2015	9
+Party Monster	The Weeknd	Starboy	R&B/Soul	8801228	249	2016	9
+OK BITCH	2 Chainz	The Play Don’t Care Who Makes It - EP	Hip-Hop/Rap	6805358	191	2018	9
+Bank Account	21 Savage	Issa Album	Hip-Hop/Rap	7824007	220	2017	9
+Kids Turned Out Fine	A$AP Rocky	TESTING	Hip-Hop/Rap	6579608	183	2018	8
+We Gotta Get Out of This Place (US Single Version)	The Animals	Retrospective	Rock	7169317	193	2004	8
+"thank u, next"	Ariana Grande	"thank u, next - Single"	Pop	7279109	207	2018	8
+Some Beach	Blake Shelton	Blake Shelton's Barn & Grill	Country	4917086	204	2004	8
+American Money	BØRNS	Dopamine	Alternative	9093683	260	2015	8
+Juke Jam (feat. Justin Bieber & Towkio)	Chance the Rapper	Coloring Book	Hip-Hop/Rap	7636522	219	2016	8
+All Night (feat. Knox Fortune)	Chance the Rapper	Coloring Book	Hip-Hop/Rap	5371670	141	2016	8
+Boogieman	Childish Gambino	"Awaken, My Love!"	R&B/Soul	7866811	216	2016	8
+The Library (Intro)	Childish Gambino	Because the Internet	Hip-Hop/Rap	688572	4	2013	8
+This Is America	Childish Gambino	This Is America - Single	Hip-Hop/Rap	8128551	225	2018	8
+Tennessee Whiskey	Chris Stapleton	Traveller	Country	10137729	293	2015	8
+When the Stars Come Out	Chris Stapleton	Traveller	Country	9355591	256	2015	8
+Warzone (feat. Future)	DJ ESCO	Kolorblind	Hip-Hop/Rap	7299764	208	2018	8
+"F Up the Club (feat. Future, Rick Ross, YG & Yo Gotti)"	DJ Khaled	Major Key	Hip-Hop/Rap	8117883	231	2016	8
+4422 (feat. Sampha)	Drake	More Life	Hip-Hop/Rap	6815065	186	2017	8
+Nothings Into Somethings	Drake	More Life	Hip-Hop/Rap	5370060	153	2017	8
+8 Out Of 10	Drake	Scorpion	Hip-Hop/Rap	7024002	195	2018	8
+Jaded	Drake	Scorpion	Hip-Hop/Rap	9230419	262	2018	8
+Signs	Drake	Signs - Single	Hip-Hop/Rap	8096144	234	2017	8
+Change Locations	Drake & Future	What a Time To Be Alive	Hip-Hop/Rap	7700451	220	2015	8
+Castle on the Hill	Ed Sheeran	÷ (Deluxe)	Pop	9151183	261	2017	8
+Where She Told Me To Go	Eric Church	Carolina	Country	7319753	288	2009	8
+Longer Gone	Eric Church	Carolina	Country	4734107	188	2009	8
+Over When It's Over	Eric Church	Chief	Country	5023929	159	2011	8
+Record Year	Eric Church	Mr. Misunderstood	Country	6433740	179	2015	8
+Pledge Allegiance To The Flag (Feat. Merle Haggard)	Eric Church	Sinners Like Me	Country	10686516	265	2006	8
+Cruise (feat. Nelly) [Remix]	Florida Georgia Line	Here's To The Good Times...This Is How We Roll	Country	8422966	209	2013	8
+RED LIGHT	Future	BEASTMODE 2	Hip-Hop/Rap	8679076	246	2018	8
+I Serve the Base	Future	DS2 (Deluxe)	Hip-Hop/Rap	6842655	190	2015	8
+Where Ya At (feat. Drake)	Future	DS2 (Deluxe)	Hip-Hop/Rap	7384254	208	2015	8
+Stick Talk	Future	DS2 (Deluxe)	Hip-Hop/Rap	6212093	171	2015	8
+Trap N	Future	DS2 (Deluxe)	Hip-Hop/Rap	6609943	184	2015	8
+Comin Out Strong (feat. The Weeknd)	Future	HNDRXX	Hip-Hop/Rap	8845493	254	2017	8
+Red Bentley (feat. Young Thug)	Future & Juice WRLD	Future & Juice WRLD Present... WRLD ON DRUGS	Hip-Hop/Rap	7350128	207	2018	8
+No Cap	Future & Young Thug	SUPER SLIMEY	Hip-Hop/Rap	5265608	144	2017	8
+Anna Molly (Acoustic)	Incubus	Light Grenades	Rock	8399205	239	2006	8
+Circles	Incubus	Morning View	Alternative	8853806	249	2001	8
+Ahora	J Balvin	Vibras	Pop Latino	8981776	254	2018	8
+Beachin'	Jake Owen	Days of Gold	Country	7760931	191	2013	8
+Don't You Wanna Stay (with Kelly Clarkson)	Jason Aldean	My Kinda Party	Country	8661614	256	2010	8
+See You When I See You	Jason Aldean	My Kinda Party	Country	7586695	228	2010	8
+Don't Change Gone	Jason Aldean	"Old Boots, New Dirt"	Country	3227605	176	2014	8
+Miss That Girl	Jason Aldean	"Old Boots, New Dirt"	Country	3222246	176	2014	8
+Gonna Know We Were Here	Jason Aldean	"Old Boots, New Dirt"	Country	7461318	224	2014	8
+"Bam (feat. Damian ""Jr. Gong"" Marley)"	JAY-Z	4:44	Hip-Hop/Rap	8345694	234	2017	8
+As Long As You Love Me (feat. Big Sean)	Justin Bieber	Believe (Deluxe Edition)	Pop	8094149	229	2012	8
+It Is What It Is	Kacey Musgraves	Same Trailer Different Park	Country	9144739	224	2013	8
+Lost	Katy Perry	One of the Boys	Pop	8903146	255	2008	8
+FEAR.	Kendrick Lamar	DAMN.	Hip-Hop/Rap	15800297	460	2017	8
+untitled 02 l 06.23.2014.	Kendrick Lamar	untitled unmastered.	Hip-Hop/Rap	9041084	258	2016	8
+Let's Go	Khalid	American Teen	R&B/Soul	7485744	204	2016	8
+Reasons	Khalid	Reasons - Single	R&B/Soul	8126631	232	2016	8
+Young Lady (feat. Father John Misty)	Kid Cudi	Indicud	Hip-Hop/Rap	9347237	264	2013	8
+The Way It Was	The Killers	Battle Born (Deluxe Edition)	Rock	9291968	231	2012	8
+Here with Me	The Killers	Battle Born (Deluxe Edition)	Rock	11738070	292	2012	8
+A Matter of Time	The Killers	Battle Born (Deluxe Edition)	Rock	10099678	251	2012	8
+Miss Atomic Bomb	The Killers	Battle Born (Deluxe Edition)	Rock	11756886	292	2012	8
+Heart of a Girl	The Killers	Battle Born (Deluxe Edition)	Rock	11015007	274	2012	8
+Be Still	The Killers	Battle Born (Deluxe Edition)	Rock	10974243	273	2012	8
+Thrift Shop (feat. Wanz)	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	9534596	235	2012	8
+Same Love (feat. Mary Lambert)	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	12910667	320	2012	8
+Overdue (feat. Travis Scott)	Metro Boomin	NOT ALL HEROES WEAR CAPES	Hip-Hop/Rap	6037632	166	2018	8
+Space Cadet (feat. Gunna)	Metro Boomin	NOT ALL HEROES WEAR CAPES	Hip-Hop/Rap	7228417	203	2018	8
+Only You (feat. Wizkid & Offset)	Metro Boomin & J Balvin	NOT ALL HEROES WEAR CAPES	Hip-Hop/Rap	7696624	218	2018	8
+BBO (Bad Bitches Only) [feat. 21 Savage]	Migos	Culture II	Hip-Hop/Rap	8851574	251	2017	8
+Sigh No More	Mumford & Sons	Sigh No More	Folk-Rock	4793179	208	2010	8
+I Never Told You What I Do For A Living	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	9275774	231	2004	8
+Don't Don't Do It!	N.E.R.D & Kendrick Lamar	NO ONE EVER REALLY DIES	Hip-Hop/Rap	8887095	257	2017	8
+CHAMPAGNE ROSÉ (feat. Madonna & Cardi B)	Quavo	QUAVO HUNCHO	Hip-Hop/Rap	8662647	246	2018	8
+Feuer frei	Rammstein	Mutter	Rock	7147561	188	2001	8
+Fear of Sleep	The Strokes	First Impressions of Earth	Pop	8423957	240	2005	8
+Is This It	The Strokes	Is This It	Other	3734508	155	2001	8
+12:51	The Strokes	Room On Fire	Alternative	6172519	153	2003	8
+Live Your Life (feat. Rihanna)	T.I.	Paper Trail (Deluxe Version)	Hip Hop/Rap	5787501	338	2008	8
+So High (feat. Ghost Loft)	Wiz Khalifa	Blacc Hollywood	Hip Hop/Rap	8870330	249	2014	8
+Tomorrow Til Infinity (feat. Gunna)	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	8075475	228	2017	8
+Real in My Veins (feat. T-Shyne)	Young Thug	On the Rvn - EP	Hip-Hop/Rap	8725764	250	2018	8
+Tsunami	Young Thug & Young Stoner Life Records	Slime Language	Hip-Hop/Rap	6707427	187	2018	8
+Dirty Shoes (feat. Gunna)	Young Thug & Young Stoner Life Records	Slime Language	Hip-Hop/Rap	7077682	198	2018	8
+Wake Up & Cook Up	"Zaytoven, Quavo & 2 Chainz"	Trapholizay	Hip-Hop/Rap	7596413	215	2017	8
+LAND OF THE FREAKS	2 Chainz	The Play Don’t Care Who Makes It - EP	Hip-Hop/Rap	7703704	221	2018	8
+OG Kush Diet	2 Chainz	Pretty Girls Like Trap Music	Hip-Hop/Rap	8799031	250	2017	8
+East Atlanta Love Letter (feat. Future)	6LACK	East Atlanta Love Letter	R&B/Soul	8674591	246	2018	8
+Let Her Go	6LACK	East Atlanta Love Letter	R&B/Soul	6327611	177	2018	8
+X (feat. Future)	21 Savage & Metro Boomin	Savage Mode	Rap	9096833	258	2016	8
+Send My Love (To Your New Lover)	Adele	25	Pop	9035730	224	2015	7
+Monterey	The Animals	Retrospective	Rock	10373294	259	2004	7
+Spill the Wine	"The Animals, Eric Burdon & War"	Retrospective	Rock	9902342	243	2004	7
+Ol' Red	Blake Shelton	Blake Shelton	Country	5313296	221	2001	7
+I Drink	Blake Shelton	Blake Shelton's Barn & Grill	Country	4935882	205	2004	7
+Baby Boy	Childish Gambino	"Awaken, My Love!"	R&B/Soul	13192544	382	2016	7
+I.Crawl	Childish Gambino	Because the Internet	Hip-Hop/Rap	7477253	209	2013	7
+Traveller	Chris Stapleton	Traveller	Country	7834339	222	2015	7
+Love Without You (feat. Sheryl Crow)	Darius Rucker & Sheryl Crow	True Believers (Deluxe Version)	Country	8132568	199	2013	7
+Can't Have Everything	Drake	More Life	Hip-Hop/Rap	7571384	228	2017	7
+Do Not Disturb	Drake	More Life	Hip-Hop/Rap	9528354	283	2017	7
+God's Plan	Drake	Scorpion	Hip-Hop/Rap	7074717	198	2018	7
+Can't Take a Joke	Drake	Scorpion	Hip-Hop/Rap	5874265	163	2018	7
+Finesse	Drake	Scorpion	Hip-Hop/Rap	6555606	182	2018	7
+Big Rings	Drake & Future	What a Time To Be Alive	Hip-Hop/Rap	7790345	217	2015	7
+Plastic Bag	Drake & Future	What a Time To Be Alive	Hip-Hop/Rap	7238964	202	2015	7
+Dive	Ed Sheeran	÷ (Deluxe)	Pop	8261715	238	2017	7
+I'm Gettin' Stoned	Eric Church	Chief	Country	8044491	242	2011	7
+Mr. Misunderstood	Eric Church	Mr. Misunderstood	Country	11040194	318	2015	7
+Mistress Named Music	Eric Church	Mr. Misunderstood	Country	11113747	322	2015	7
+Chattanooga Lucy	Eric Church	Mr. Misunderstood	Country	7265383	203	2015	7
+Mixed Drinks About Feelings (feat. Susan Tedeschi)	Eric Church	Mr. Misunderstood	Country	6379154	179	2015	7
+Knives of New Orleans	Eric Church	Mr. Misunderstood	Country	8475711	242	2015	7
+Round Here Buzz	Eric Church	Mr. Misunderstood	Country	7736292	214	2015	7
+Rotation	Future	DS2 (Deluxe)	Hip-Hop/Rap	5992395	167	2015	7
+Might as Well	Future	FUTURE	Hip-Hop/Rap	7418483	207	2017	7
+Poppin' Tags	Future	FUTURE	Hip-Hop/Rap	7739128	218	2017	7
+Oxy (feat. Lil Wayne)	Future	Future & Juice WRLD Present... WRLD ON DRUGS	Hip-Hop/Rap	6424434	180	2018	7
+Jersey	Future	What a Time To Be Alive	Hip-Hop/Rap	6701066	188	2015	7
+Fine China	Future & Juice WRLD	Future & Juice WRLD Present... WRLD ON DRUGS	Hip-Hop/Rap	5156896	141	2018	7
+All da Smoke	Future & Young Thug	SUPER SLIMEY	Hip-Hop/Rap	7249966	204	2017	7
+Feel Good Inc.	Gorillaz	Demon Days	Alternative	7106500	221	2005	7
+I Get the Bag (feat. Migos)	Gucci Mane	Mr. Davis	Hip-Hop/Rap	8185424	233	2017	7
+Texas Was You	Jason Aldean	My Kinda Party	Country	6727901	205	2010	7
+Two Night Town	Jason Aldean	"Old Boots, New Dirt"	Country	3606561	200	2014	7
+In Case You Don't Remember	Jason Aldean	They Don't Know	Country	6604684	180	2016	7
+Truth	Jason Aldean	Wide Open	Country	9547747	238	2009	7
+Tom Ford	JAY-Z	Magna Carta... Holy Grail	Hip-Hop/Rap	6793923	189	2013	7
+4:44	JAY-Z	4:44	Hip-Hop/Rap	9974234	284	2017	7
+Family Feud (feat. Beyoncé)	JAY-Z	4:44	Hip-Hop/Rap	8866128	251	2017	7
+Legacy	JAY-Z	4:44	Hip-Hop/Rap	6413410	177	2017	7
+Back Goin Brazy (feat. Future)	Joe Moses	SuWop EP	Hip-Hop/Rap	7327778	207	2018	7
+I Love It	Kanye West & Lil Pump	I Love It - Single	Hip-Hop/Rap	4780826	127	2018	7
+She Got It All	Kenny Chesney	Greatest Hits	Country	8187668	204	2000	7
+How Forever Feels	Kenny Chesney	Greatest Hits	Country	7535654	188	2000	7
+The Good Stuff	Kenny Chesney	Greatest Hits II	Country	4992395	200	2009	7
+Another Sad Love Song	Khalid	American Teen	R&B/Soul	8602096	244	2017	7
+Saturday Nights	Khalid	Suncity	R&B/Soul	7413233	209	2018	7
+King Wizard	Kid Cudi	Indicud	Hip-Hop/Rap	9024493	256	2012	7
+Immortal	Kid Cudi	Indicud	Hip-Hop/Rap	10565464	301	2013	7
+When You Were Young	The Killers	Sam's Town	Pop	8559971	220	2006	7
+Uproar	Lil Wayne	Tha Carter V	Hip-Hop/Rap	7008528	193	2018	7
+Liability	Lorde	Melodrama	Alternative	6134396	172	2017	7
+Make the Money	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	9101998	224	2012	7
+Neon Cathedral (feat. Allen Stone)	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	11081055	274	2012	7
+Teardrop	Massive Attack	Mezzanine	Unknown genre	9525921	321	1998	7
+Up to Something (feat. Travis Scott & Young Thug)	Metro Boomin	NOT ALL HEROES WEAR CAPES	Hip-Hop/Rap	6619571	184	2018	7
+Simple Things (Remix) [feat. Chris Brown & Future]	Miguel	Simple Things (Remix) [feat. Chris Brown & Future] - Single	R&B/Soul	8701503	237	2015	7
+Banana Clip	Miguel	War & Leisure	R&B/Soul	7142049	201	2017	7
+Automatic	Miranda Lambert	Platinum	Country	10010288	247	2014	7
+To Learn Her	Miranda Lambert	The Weight of These Wings	Country	8015101	227	2016	7
+Keeper of the Flame	Miranda Lambert	The Weight of These Wings	Country	8376820	239	2016	7
+Hang 'Em High	My Chemical Romance	Three Cheers For Sweet Revenge	Alternative & Punk	6706344	167	2004	7
+Secret Life of Tigers	N.E.R.D	NO ONE EVER REALLY DIES	Hip-Hop/Rap	7991690	225	2017	7
+Chun-Li	Nicki Minaj	Queen	Hip-Hop/Rap	7028426	191	2018	7
+If You Know You Know	Pusha T	DAYTONA	Hip-Hop/Rap	7338831	202	2018	7
+HUNCHO DREAMS	Quavo	QUAVO HUNCHO	Hip-Hop/Rap	7579470	211	2018	7
+Body Like a Back Road	Sam Hunt	Body Like a Back Road - Single	Country	6169860	162	2017	7
+2am	Slightly Stoopid	Chronchitis	Dub	4800577	299	2007	7
+Leaving On a Jet Plane	Slightly Stoopid	Everything You Need	Rock	7282649	195	2003	7
+Too Little Too Late	Slightly Stoopid	Live & Direct - Acoustic Roots	Alternative	6533577	176	2001	7
+Mi Combo (feat. Future & Yandel)	Spiff TV	Mi Combo (feat. Future & Yandel) - Single	Latino	7520455	211	2015	7
+Soma	The Strokes	Is This It	Other	3792814	157	2001	7
+This Love	Taylor Swift	1989 (Deluxe)	Pop	10134147	250	2014	7
+Wonderland	Taylor Swift	1989 (Deluxe)	Pop	9952385	245	2014	7
+You Are In Love	Taylor Swift	1989 (Deluxe)	Pop	10813375	267	2014	7
+Crash and Burn	Thomas Rhett	Tangled Up (Deluxe)	Country	6843412	190	2015	7
+Antidote	Travis Scott	Rodeo (Deluxe)	Hip-Hop/Rap	9259044	262	2015	7
+Reminder (Remix) [feat. A$AP Rocky & Young Thug]	The Weeknd	Reminder (Remix) [feat. A$AP Rocky & Young Thug] - Single	R&B/Soul	7796497	221	2017	7
+Perfect Situation	Weezer	Make Believe	Alternative Pop	10217472	255	2005	7
+the remedy for a broken heart (why am I so in love)	XXXTENTACION	?	Pop	5856251	160	2018	7
+Constantly Hating (feat. Birdman)	Young Thug	Barter 6	Hip-Hop/Rap	9339850	267	2015	7
+On Fire	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	8434220	239	2017	7
+Harambe	Young Thug	JEFFERY	Hip-Hop	6838361	190	2016	7
+Kanye West (feat. Wyclef Jean)	Young Thug	JEFFERY	Hip-Hop	11804823	342	2016	7
+U Ain't Slime Enough (feat. Karlae & Duke)	Young Thug & Young Stoner Life Records	Slime Language	Hip-Hop/Rap	8888825	254	2018	7
+Oh Yeah (feat. HiDoraah)	Young Thug & Young Stoner Life Records	Slime Language	Hip-Hop/Rap	7577972	213	2018	7
+"10,000 Slimes"	"Young Thug, Carnage & Young Stoner Life Records"	Young Martha - EP	Hip-Hop/Rap	10089529	282	2017	7
+Boot Up (feat. Future)	Zaytoven	Trapholizay	Hip-Hop/Rap	6769588	191	2018	7
+Birthday Song (feat. Kanye West)	2 Chainz	Based On a T.R.U. Story (Deluxe Version)	Hip-Hop/Rap	10691384	306	2012	7
+FEFE (feat. Nicki Minaj & Murda Beatz)	6ix9ine	FEFE (feat. Nicki Minaj & Murda Beatz) - Single	Hip-Hop/Rap	6511428	179	2018	7
+Famous	21 Savage	Issa Album	Hip Hop/Rap	8273006	234	2017	7
+I Miss You	Adele	25	Pop	14057487	350	2015	6
+When We Were Young	Adele	25	Pop	11749315	292	2015	6
+Damn Girl	All American Rejects	When The World Comes Down	Indie	4708558	231	2009	6
+Mona Lisa (When The World Comes Down)	All American Rejects	When The World Comes Down	Indie	3972978	194	2009	6
+The House of the Rising Sun	The Animals	Retrospective	Rock	9776381	269	2004	6
+Boom Boom	The Animals	Retrospective	Rock	7350642	197	2004	6
+Don't Let Me Be Misunderstood	The Animals	Retrospective	Rock	5606439	148	2004	6
+Slide (feat. Frank Ocean & Migos)	Calvin Harris	Funk Wav Bounces Vol. 1	Dance	8184775	230	2017	6
+Faking It (feat. Kehlani & Lil Yachty)	Calvin Harris	Funk Wav Bounces Vol. 1	Dance	8468616	240	2017	6
+Bartier Cardi (feat. 21 Savage)	Cardi B	Invasion of Privacy	Hip-Hop/Rap	7912102	224	2017	6
+Zombies	Childish Gambino	"Awaken, My Love!"	R&B/Soul	9611280	281	2016	6
+Riot	Childish Gambino	"Awaken, My Love!"	R&B/Soul	4624375	125	2016	6
+"Ahora Dice (Real Hasta La Muerte Remix) [feat. Cardi B, Offset, Anuel & Arcángel]"	"Chris Jeday, J Balvin & Ozuna"	"Ahora Dice (Real Hasta La Muerte Remix) [feat. Cardi B, Offset, Anuel & Arcángel] - Single"	Urbano latino	9686300	276	2018	6
+More of You	Chris Stapleton	Traveller	Country	9843740	277	2015	6
+I Hold On	Dierks Bentley	Riser	Country	9311841	280	2014	6
+No Slow Money (feat. Future & Young Thug)	DJ ESCO	Kolorblind	Hip-Hop/Rap	6105572	170	2018	6
+"Xotic (feat. Future, Rich the Kid & Young Thug)"	DJ ESCO	Kolorblind	Hip-Hop/Rap	6373340	176	2018	6
+Too Much Sauce (feat. Future & Lil Uzi Vert)	DJ ESCO	Too Much Sauce (feat. Future & Lil Uzi Vert) - Single	Hip-Hop/Rap	7833240	223	2016	6
+Nonstop	Drake	Scorpion	Hip-Hop/Rap	8484864	238	2018	6
+Mob Ties	Drake	Scorpion	Hip-Hop/Rap	7251654	205	2018	6
+After Dark (feat. Static Major & Ty Dolla $ign)	Drake	Scorpion	Hip-Hop/Rap	10137603	289	2018	6
+Final Fantasy	Drake	Scorpion	Hip-Hop/Rap	7785047	219	2018	6
+Headlines	Drake	Take Care (Deluxe Version)	Hip-Hop/Rap	8207372	235	2011	6
+30 for 30 Freestyle	Drake	What a Time To Be Alive	Hip-Hop/Rap	8805962	253	2015	6
+Diamonds Dancing	Drake & Future	What a Time To Be Alive	Hip-Hop/Rap	10833217	314	2015	6
+I'm the Plug	Drake & Future	What a Time To Be Alive	Hip-Hop/Rap	6546245	180	2015	6
+Perfect	Ed Sheeran	÷ (Deluxe)	Pop	9263610	263	2017	6
+Before She Does	Eric Church	Sinners Like Me	Country	8030349	199	2006	6
+These Boots	Eric Church	Sinners Like Me	Country	9182867	228	2006	6
+Waste	Foster The People	Torches	Alternative	8352026	205	2011	6
+Miss You	Foster The People	Torches	Alternative	8643556	212	2011	6
+Walk Like a Man	The Four Seasons	The Very Best of Frankie Valli and the Four Seasons	Rock	5742987	137	2002	6
+Working My Way Back to You	The Four Seasons	The Very Best of Frankie Valli and the Four Seasons	Rock	7360767	186	2002	6
+Unforgettable (feat. Swae Lee)	French Montana	Jungle Rules	Hip-Hop/Rap	8483378	233	2017	6
+Freak Hoe	Future	DS2 (Deluxe)	Hip-Hop/Rap	6280502	174	2015	6
+Colossal	Future	DS2 (Deluxe)	Hip-Hop/Rap	6521206	184	2015	6
+Real Sisters	Future	DS2 (Deluxe)	Hip-Hop/Rap	6264016	174	2015	6
+Feds Did a Sweep	Future	FUTURE	Hip-Hop/Rap	9304859	270	2017	6
+Mask Off (feat. Kendrick Lamar) [Remix]	Future	FUTURE	Hip-Hop/Rap	9050907	258	2017	6
+Sorry	Future	HNDRXX	Hip-Hop/Rap	15436795	451	2017	6
+What's Up With That (feat. 21 Savage)	Future	SUPERFLY (Original Motion Picture Soundtrack)	Hip-Hop/Rap	6490747	182	2018	6
+Walk On Minks	Future	SUPERFLY (Original Motion Picture Soundtrack)	Hip-Hop/Rap	7698409	218	2018	6
+Mink Flow	Future & Young Thug	SUPER SLIMEY	Hip-Hop/Rap	6426448	178	2017	6
+100 Sticks (feat. Young Thug)	G Herbo & Southside	Swervo	Hip-Hop	8029962	226	2018	6
+Curve (feat. The Weeknd)	Gucci Mane	Mr. Davis	Hip-Hop/Rap	5817946	161	2017	6
+From Eden	Hozier	Hozier (Deluxe Version)	Singer/Songwriter	11626718	283	2014	6
+Public Pervert	Interpol	Antics	Indie	4487296	280	2004	6
+C'mere	Interpol	Antics	Indie	3068387	191	2004	6
+"Safari (feat. Pharrell Williams, BIA & Sky)"	J Balvin	Energía	Urbano latino	7245216	205	2016	6
+En Mí	J Balvin	Vibras	Urbano latino	7075946	195	2018	6
+Noches Pasadas	J Balvin	Vibras	Urbano latino	7828343	222	2018	6
+Brillo	J Balvin & ROSALÍA	Vibras	Urbano latino	5839235	159	2018	6
+This Plane Don't Go There	Jason Aldean	They Don't Know	Country	6489704	179	2016	6
+Bad	Jason Aldean	They Don't Know	Country	7641735	213	2016	6
+Reason to Love L.A.	Jason Aldean	They Don't Know	Country	7542532	202	2016	6
+When the Lights Go Out	Jason Aldean	They Don't Know	Country	7414878	206	2016	6
+Boyfriend	Justin Bieber	Believe (Deluxe Edition)	Pop	6252847	171	2012	6
+Big Brother	Kanye West	Graduation	Hip-Hop/Rap	10084155	287	2010	6
+No Mistakes	Kanye West	ye	Hip-Hop/Rap	4717879	123	2018	6
+Fingerprints	Katy Perry	One of the Boys	Pop	7908336	224	2008	6
+Black Panther	Kendrick Lamar	Black Panther The Album Music From And Inspired By	Hip-Hop/Rap	4837819	130	2018	6
+A.D.H.D.	Kendrick Lamar	Section.80	Hip Hop/Rap	7783148	215	2011	6
+Never Wanted Nothing More	Kenny Chesney	Greatest Hits II	Country	5429755	208	2009	6
+Hopeless	Khalid	American Teen	R&B/Soul	6116650	167	2016	6
+Therapy	Khalid	American Teen	R&B/Soul	8999028	257	2017	6
+Cudi Montage	KIDS SEE GHOSTS	KIDS SEE GHOSTS	Hip-Hop/Rap	7039384	197	2018	6
+All These Things That I've Done	The Killers	Hot Fuss	Indie Rock	12083376	302	2004	6
+Sex On Fire	Kings of Leon	Only By the Night (Deluxe Version)	Alternative	7337169	203	2008	6
+Blood Brothers	Luke Bryan	Crash My Party (Deluxe Version)	Country	9845247	243	2013	6
+Country Man	Luke Bryan	I'll Stay Me	Country	7631282	190	2007	6
+Country Girl (Shake It For Me)	Luke Bryan	Tailgates and Tanlines	Country	9031241	225	2011	6
+Kiss Tomorrow Goodbye	Luke Bryan	Tailgates and Tanlines	Country	8134719	203	2011	6
+Drunk On You	Luke Bryan	Tailgates and Tanlines	Country	8676015	213	2011	6
+Victory Lap	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	8658959	213	2012	6
+King Without a Crown	Matisyahu	Youth	Reggae	5387375	222	2006	6
+Only 1 (Interlude) [feat. Travis Scott]	Metro Boomin	NOT ALL HEROES WEAR CAPES	Hip-Hop/Rap	3122055	80	2018	6
+Lesbian (feat. Gunna & Young Thug)	Metro Boomin	NOT ALL HEROES WEAR CAPES	Hip-Hop/Rap	7461835	206	2018	6
+Borrowed Love (feat. Swae Lee & Wizkid)	Metro Boomin	NOT ALL HEROES WEAR CAPES	Hip-Hop/Rap	8124147	230	2018	6
+Voilà	"N.E.R.D, Gucci Mane & Wale"	NO ONE EVER REALLY DIES	Hip-Hop/Rap	9139698	260	2017	6
+Snapback	Old Dominion	Meat and Candy	Country	7497035	206	2015	6
+The Games We Play	Pusha T	DAYTONA	Hip-Hop/Rap	6047237	166	2018	6
+What Would Meek Do? (feat. Kanye West)	Pusha T	DAYTONA	Hip-Hop/Rap	5640338	153	2018	6
+Infrared	Pusha T	DAYTONA	Hip-Hop/Rap	6104821	170	2018	6
+WORKIN ME	Quavo	QUAVO HUNCHO	Hip-Hop/Rap	6234180	169	2018	6
+Guatemala (From Swaecation)	"Rae Sremmurd, Swae Lee & Slim Jxmmi"	SR3MM	Hip-Hop/Rap	9007567	256	2018	6
+Good for You (feat. A$AP Rocky)	Selena Gomez	Good for You (feat. A$AP Rocky) - Single	Pop	7911264	221	2015	6
+Big Ol Drip (feat. WATCH THE DUCK)	T.I.	DIME TRAP	Hip-Hop/Rap	7120929	198	2018	6
+Die a Happy Man	Thomas Rhett	Tangled Up (Deluxe)	Country	7995533	228	2015	6
+I Love This Bar	Toby Keith	35 Biggest Hits (disc 2)	Country	13345102	333	2008	6
+beibs in the trap	Travis Scott	Birds in the Trap Sing McKnight	Hip-Hop/Rap	7626749	213	2016	6
+Pornography	Travis Scott	Rodeo (Deluxe)	Hip-Hop/Rap	8215965	231	2015	6
+Oh My Dis Side (feat. Quavo)	Travis Scott	Rodeo (Deluxe)	Hip-Hop/Rap	12149351	351	2015	6
+Ride	twenty one pilots	Blurryface	Alternative	7652707	214	2015	6
+Opps	"Vince Staples, Yugen Blakrok"	Black Panther The Album Music From And Inspired By	Hip-Hop/Rap	6519419	180	2018	6
+Beverly Hills	Weezer	Make Believe	Alternative Pop	7847936	196	2005	6
+With That (feat. Duke)	Young Thug	Barter 6	Hip-Hop/Rap	7124982	202	2015	6
+Check	Young Thug	Barter 6	Hip-Hop/Rap	8076552	230	2015	6
+Webbie (feat. Duke)	Young Thug	JEFFERY	Hip-Hop	8316170	235	2016	6
+Cruise Ship	Young Thug	SUPER SLIMEY	Hip-Hop/Rap	6060394	166	2017	6
+Highway 20 Ride	Zac Brown Band	The Foundation	Country	5579636	232	2005	6
+Riverdale Rd	2 Chainz	Pretty Girls Like Trap Music	Hip-Hop/Rap	7498323	204	2017	6
+Big Amount (feat. Drake)	2 Chainz	Pretty Girls Like Trap Music	Hip-Hop/Rap	6782421	191	2016	6
+Blue Cheese (feat. Migos)	2 Chainz	Pretty Girls Like Trap Music	Hip-Hop/Rap	10895497	308	2017	6
+BEBE (feat. Anuel AA)	6ix9ine	BEBE (feat. Anuel AA) - Single	Latino	7648813	217	2018	6
+Pretty Little Fears (feat. J. Cole)	6LACK	East Atlanta Love Letter	R&B/Soul	8498855	240	2018	6
+"Telephone Calls (feat. A$AP Rocky, Tyler, the Creator, Playboi Carti & Yung Gleesh)"	A$AP Mob	"Cozy Tapes, Vol. 1: Friends"	Hip-Hop/Rap	8142830	230	2016	5
+Gunz N Butter (feat. Juicy J)	A$AP Rocky	TESTING	Hip-Hop/Rap	7537712	213	2018	5
+Purity (feat. Frank Ocean)	A$AP Rocky	TESTING	Hip-Hop/Rap	9120096	262	2018	5
+I'm Crying	The Animals	Retrospective	Rock	6247138	166	2004	5
+Anything	The Animals	Retrospective	Rock	8163785	201	2004	5
+Sky Pilot	The Animals	Retrospective	Rock	17323036	450	2004	5
+MIA (feat. Drake)	Bad Bunny	MIA (feat. Drake) - Single	Latino	7691329	210	2018	5
+Netflixxx	Brytiago & Bad Bunny	Netflixxx - Single	Latino	7683753	218	2017	5
+I Do (feat. SZA)	Cardi B	Invasion of Privacy	Hip-Hop/Rap	7078021	200	2018	5
+She Bad	Cardi B & YG	Invasion of Privacy	Hip-Hop/Rap	8135505	230	2018	5
+APESHIT	THE CARTERS	EVERYTHING IS LOVE	Hip-Hop/Rap	9308583	264	2018	5
+Blessings	Chance the Rapper	Coloring Book	Hip-Hop/Rap	7770078	221	2016	5
+Stand Tall	Childish Gambino	"Awaken, My Love!"	R&B/Soul	13099619	370	2016	5
+Dial Up	Childish Gambino	Because the Internet	Hip-Hop/Rap	2201883	44	2013	5
+I. The Worst Guys (feat. Chance The Rapper)	Childish Gambino	Because the Internet	Hip-Hop/Rap	7793114	219	2013	5
+IV. Sweatpants	Childish Gambino	Because the Internet	Hip-Hop/Rap	6558960	180	2013	5
+Might As Well Get Stoned	Chris Stapleton	Traveller	Country	9726830	277	2015	5
+Rich Girl	Daryl Hall & John Oates	The Very Best of Daryl Hall & John Oates (Remastered)	Rock	5521902	144	1976	5
+Say You Do	Dierks Bentley	Riser	Country	7060573	220	2014	5
+Drunk On A Plane	Dierks Bentley	Riser	Country	8694013	254	2014	5
+Five	Dierks Bentley	Riser	Country	9385348	285	2014	5
+"Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)"	DJ Khaled	Major Key	Hip-Hop/Rap	11320079	325	2016	5
+"Hello, I Love You"	The Doors	The Very Best of The Doors	Rock	5438829	136	1968	5
+No Long Talk (feat. Giggs)	Drake	More Life	Hip-Hop/Rap	5486839	149	2017	5
+KMT (feat. Giggs)	Drake	More Life	Hip-Hop/Rap	5905625	162	2017	5
+Fake Love	Drake	More Life	Hip-Hop/Rap	7534084	210	2016	5
+Survival	Drake	Scorpion	Hip-Hop/Rap	5042025	136	2018	5
+Elevate	Drake	Scorpion	Hip-Hop/Rap	6684403	184	2018	5
+Take Care (feat. Rihanna)	Drake	Take Care (Deluxe Version)	Hip-Hop/Rap	9685659	277	2011	5
+Marvins Room	Drake	Take Care (Deluxe Version)	Hip-Hop/Rap	11895318	347	2011	5
+Live From the Gutter	Drake & Future	What a Time To Be Alive	Hip-Hop/Rap	7453728	211	2015	5
+Galway Girl	Ed Sheeran	÷ (Deluxe)	Pop	6091429	170	2017	5
+How 'Bout You	Eric Church	Sinners Like Me	Country	9293628	231	2006	5
+What I Almost Was	Eric Church	Sinners Like Me	Country	8103493	201	2006	5
+Can't Take It With You	Eric Church	Sinners Like Me	Country	10693801	266	2006	5
+Livin' Part Of Life	Eric Church	Sinners Like Me	Country	10825456	269	2006	5
+Don't Like You (Trust)	Evander Griiim	Raices	Hip-Hop/Rap	6614106	184	2018	5
+Helena Beat	Foster The People	Torches	Alternative	11175347	276	2011	5
+I Would Do Anything For You	Foster The People	Torches	Alternative	8691640	214	2011	5
+Opus 17 (Don't You Worry 'Bout Me)	The Four Seasons	The Very Best of Frankie Valli and the Four Seasons	Rock	6252708	155	2002	5
+I've Got You Under My Skin	The Four Seasons	The Very Best of Frankie Valli and the Four Seasons	Rock	8489831	221	2002	5
+C'mon Marianne	The Four Seasons	The Very Best of Frankie Valli and the Four Seasons	Rock	6181120	155	2002	5
+WHEN I THINK ABOUT IT	Future	BEASTMODE 2	Hip-Hop/Rap	6594007	184	2018	5
+Groupies	Future	DS2 (Deluxe)	Hip-Hop/Rap	6804450	187	2015	5
+Good Dope	Future	FUTURE	Hip-Hop/Rap	6225737	172	2017	5
+Zoom	Future	FUTURE	Hip-Hop/Rap	9727193	278	2017	5
+High Demand	Future	FUTURE	Hip-Hop/Rap	7479231	211	2017	5
+Hallucinating	Future	HNDRXX	Hip-Hop/Rap	7798720	221	2017	5
+T-Shirt	Future	Honest (Deluxe)	Hip-Hop/Rap	7632803	215	2014	5
+Benz Friendz (Whatchutola) [feat. André 3000]	Future	Honest (Deluxe)	Hip-Hop/Rap	9862192	281	2014	5
+Same Damn Time (Remix) [feat. Diddy & Ludacris]	Future	Pluto 3D	Hip-Hop/Rap	9585447	273	2012	5
+Tie My Shoes (feat. Young Thug)	Future	SUPERFLY (Original Motion Picture Soundtrack)	Hip-Hop/Rap	6491888	181	2018	5
+Three	Future & Young Thug	SUPER SLIMEY	Hip-Hop/Rap	5782716	159	2017	5
+200	Future & Young Thug	SUPER SLIMEY	Hip-Hop/Rap	5375782	146	2017	5
+In a Week (feat. Karen Cowley)	Hozier	Hozier (Deluxe Version)	Singer/Songwriter	13027968	318	2014	5
+Work Song	Hozier	Hozier (Deluxe Version)	Singer/Songwriter	9476318	229	2014	5
+Black & Chinese	"HUNCHO JACK, Travis Scott & Quavo"	"Huncho Jack, Jack Huncho"	Hip-Hop/Rap	6240345	172	2017	5
+Anna Molly	Incubus	Light Grenades	Rock	8271775	225	2006	5
+LAnd of the Snakes	J. Cole	Born Sinner (Deluxe Edition)	Hip-Hop/Rap	10224107	254	2013	5
+No Role Modelz	J. Cole	2014 Forest Hills Drive	Hip-Hop/Rap	10109922	292	2014	5
+They Don't Know	Jason Aldean	They Don't Know	Country	7306116	195	2016	5
+One We Won't Forget	Jason Aldean	They Don't Know	Country	7260158	197	2016	5
+This I Gotta See	Jason Aldean	Wide Open	Country	9522680	237	2009	5
+She's Country	Jason Aldean	Wide Open	Country	8846628	220	2009	5
+On My Highway	Jason Aldean	Wide Open	Country	9092179	227	2009	5
+Drunk and Hot Girls	Kanye West	Graduation	Hip-Hop/Rap	10906889	313	2010	5
+Flashing Lights	Kanye West	Graduation	Hip-Hop/Rap	8404834	237	2010	5
+Barry Bonds	Kanye West & Lil Wayne	Graduation	Hip-Hop/Rap	7275597	204	2010	5
+Good Night (Bonus Track)	"Kanye West, Mos Def & Al Be Back"	Graduation	Hip-Hop/Rap	6901207	185	2010	5
+Ronald Reagan Era	Kendrick Lamar	Section.80	Hip Hop/Rap	7715681	216	2011	5
+Rigamortus	Kendrick Lamar	Section.80	Hip Hop/Rap	6129764	168	2011	5
+For Free? (Interlude)	Kendrick Lamar	To Pimp a Butterfly	Hip-Hop/Rap	4869847	130	2015	5
+All The Stars	"Kendrick Lamar, SZA"	Black Panther The Album Music From And Inspired By	Hip-Hop/Rap	8231586	232	2018	5
+Save It for a Rainy Day	Kenny Chesney	The Big Revival	Country	7859147	182	2014	5
+Don't Happen Twice	Kenny Chesney	Greatest Hits	Country	8135426	203	2000	5
+She Thinks My Tractor's Sexy	Kenny Chesney	Greatest Hits	Country	9916988	247	2000	5
+American Teen	Khalid	American Teen	R&B/Soul	8851026	250	2017	5
+Coaster	Khalid	American Teen	R&B/Soul	7141453	199	2017	5
+Salem's Interlude	Khalid	Suncity	R&B/Soul	3244081	81	2018	5
+Motion	Khalid	Suncity	R&B/Soul	8360162	235	2018	5
+Battle Born	The Killers	Battle Born (Deluxe Edition)	Rock	12580258	313	2012	5
+Jenny Was A Friend Of Mine	The Killers	Hot Fuss	Indie Rock	9785641	244	2004	5
+Somebody Told Me	The Killers	Hot Fuss	Indie Rock	7891246	197	2004	5
+Change Your Mind	The Killers	Hot Fuss	Indie Rock	7638351	190	2004	5
+Life Goes On (feat. Gunna & Lil Uzi Vert)	Lil Baby	Harder Than Ever	Hip-Hop/Rap	8681779	247	2018	5
+One Night	Lil Yachty	Lil Boat	Hip-Hop/Rap	8591264	243	2015	5
+Despacito (feat. Justin Bieber) [Remix]	Luis Fonsi & Daddy Yankee	Despacito (feat. Justin Bieber) [Remix] - Single	Pop	8102607	228	2017	5
+All My Friends Say	Luke Bryan	I'll Stay Me	Country	9643769	241	2007	5
+BomBom (feat. The Teaching)	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	11935774	295	2012	5
+My Oh My	Macklemore & Ryan Lewis	The Heist (Deluxe Edition)	Hip-Hop/Rap	10391397	257	2012	5
+Mama Tried	Merle Haggard & The Strangers	Vintage Collections: Merle Haggard	Country	5471553	134	2002	5
+Auto Pilot	Migos	Culture II	Hip-Hop/Rap	10063735	287	2018	5
+Waves (feat. Travis Scott) [Remix]	Miguel	Rogue Waves - EP	R&B/Soul	7143096	200	2016	5
+Bad Boy	Miranda Lambert	The Weight of These Wings	Country	9769864	280	2016	5
+Six Degrees of Separation	Miranda Lambert	The Weight of These Wings	Country	6703518	189	2016	5
+Dear Old Sun	Miranda Lambert	The Weight of These Wings	Country	10345754	296	2016	5
+I've Got Wheels	Miranda Lambert	The Weight of These Wings	Country	8187511	220	2016	5
+Story Of My Life	One Direction	Midnight Memories	Other	9826520	245	2013	5
+All We Can Do	Poo Bear & Juanes	Poo Bear Presents: Bearthday Music	Música tropical	7277446	204	2017	5
+Hard Piano (feat. Rick Ross)	Pusha T	DAYTONA	Hip-Hop/Rap	7140769	195	2018	5
+Todo O Mundo E Ninguém	Quarteto 1111	A Lenda Do Quarteto 1111	World	11487295	293	1993	5
+PASS OUT (feat. 21 Savage)	Quavo	QUAVO HUNCHO	Hip-Hop/Rap	7961543	224	2018	5
+GIVE IT TO EM (feat. Saweetie)	Quavo	QUAVO HUNCHO	Hip-Hop/Rap	6512532	182	2018	5
+SHINE	Quavo	QUAVO HUNCHO	Hip-Hop/Rap	5956188	163	2018	5
+HOW BOUT THAT?	Quavo	QUAVO HUNCHO	Hip-Hop/Rap	5829748	160	2018	5
+Goodnight Kiss	Randy Houser	How Country Feels	Country	8338984	206	2013	5
+What They Want (feat. 2 Chainz)	ScHoolboy Q	Oxymoron (Deluxe Version)	Hip-Hop/Rap	9538947	267	2014	5
+Superstition (Single Version)	Stevie Wonder	The Definitive Collection	R&B/Soul	9991485	248	1972	5
+25 Soldiers (feat. Young Thug)	Swizz Beatz	POISON	Hip-Hop/Rap	10049939	287	2018	5
+Love Galore (feat. Travis Scott)	SZA	Ctrl	R&B/Soul	9635487	275	2017	5
+Doves In the Wind (feat. Kendrick Lamar)	SZA	Ctrl	R&B/Soul	9330213	266	2017	5
+The Weekend (feat. Young Thug & Swizz Beatz)	T.I.	DIME TRAP	Hip-Hop/Rap	10061493	287	2018	5
+New Romantics	Taylor Swift	1989 (Deluxe)	Pop	9348440	230	2014	5
+Anthem	Thomas Rhett	Tangled Up (Deluxe)	Country	7044653	193	2015	5
+Vacation	Thomas Rhett	Tangled Up (Deluxe)	Country	8321765	223	2015	5
+Stays in Mexico	Toby Keith	35 Biggest Hits (disc 2)	Country	8599175	214	2008	5
+Pray For Me	"The Weeknd, Kendrick Lamar"	Black Panther The Album Music From And Inspired By	Hip-Hop/Rap	7487582	211	2018	5
+SUU WHOOP	YG	STAY DANGEROUS	Hip-Hop/Rap	6618924	184	2018	5
+Never Had It (feat. Young Dolph)	Young Thug	Barter 6	Hip-Hop/Rap	8875767	254	2015	5
+Daddy's Birthday	Young Thug	BEAUTIFUL THUGGER GIRLS	Hip-Hop/Rap	7280042	208	2017	5
+"Floyd Mayweather (feat. Travis Scott, Gucci Mane & Gunna)"	Young Thug	JEFFERY	Hip-Hop	12387276	359	2016	5
+Swizz Beatz	Young Thug	JEFFERY	Hip-Hop	7001275	196	2016	5
+Future Swag	Young Thug	JEFFERY	Hip-Hop	5996268	165	2016	5
+Memo	Young Thug	Slime Season 3	Hip-Hop	6977057	195	2016	5
+Chicken Fried	Zac Brown Band	The Foundation	Country	5753038	239	2005	5
+Sorry	6LACK	East Atlanta Love Letter	R&B/Soul	7496362	210	2018	5
+Balenciaga Challenge (feat. Offset)	6LACK	East Atlanta Love Letter	R&B/Soul	6645087	187	2018	5
